@@ -1,0 +1,51 @@
+#header {
+    text-align: center;
+    margin: 0 auto;
+    color: whitesmoke
+}
+
+body {
+    background-image: url("images/vsbackground.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.char-img {
+    height: 550px;
+    width: 550px;
+}
+
+.char-name {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.char-info {
+    color: whitesmoke;
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+}
+
+.char-publisher {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#card-one {
+    float: left;
+    margin-left: 150px;
+}
+
+#card-two {
+    float: right;
+    margin-right: 150px;
+}
+
+.fight-button {
+    background-image: url("images/fight-button.png");
+    height: 100px;
+    width: 100px;
+}
