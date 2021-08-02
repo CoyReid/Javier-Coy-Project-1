@@ -1,0 +1,354 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Pikachu",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Pikachu.jpg",
+        "origin": "Pokemon",
+        "likes": 2
+      },
+      {
+        "id": 2,
+        "name": "Ezio Auditore",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Ezio-Auditore-De-Firenze.jpg",
+        "origin": "Assassin's Creed",
+        "likes": 24
+      },
+      {
+        "id": 3,
+        "name": "Diddy Kong",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/diddy-kong.png",
+        "origin": "Donkey Kong",
+        "likes": 34
+      },
+      {
+        "id": 4,
+        "name": "Spyro",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Spyro.png",
+        "origin": "Spyro",
+        "likes": 12
+      },
+      {
+        "id": 5,
+        "name": "Gordon Freeman",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Gordon-Freeman.jpg",
+        "origin": "Half-Life",
+        "likes": 2
+      },
+      {
+        "id": 6,
+        "name": "Samus Aran",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Samus-Aran.jpg",
+        "origin": "Metroid",
+        "likes": 7
+      },
+      {
+        "id": 7,
+        "name": "Princess Zelda",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Princess-Zelda.jpg",
+        "origin": "The Legend of Zelda",
+        "likes": 9
+      },
+      {
+        "id": 8,
+        "name": "Agent 47",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Agent-47.jpg",
+        "origin": "Hitman",
+        "likes": 1
+      },
+      {
+        "id": 9,
+        "name": "Sonic the Hedgehog",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Sonic-the-Hedgehog.jpg",
+        "origin": "Sonic",
+        "likes": 5
+      },
+      {
+        "id": 10,
+        "name": "Donkey Kong",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Donkey-Kong.png",
+        "origin": "Donkey Kong",
+        "likes": 46
+      },
+      {
+        "id": 11,
+        "name": "Bowser",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Bowser.png",
+        "origin": "Mario Franchise",
+        "likes": 23
+      },
+      {
+        "id": 12,
+        "name": "Mega Man",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Megaman.jpg",
+        "origin": "Megaman",
+        "likes": 2
+      },
+      {
+        "id": 13,
+        "name": "Subzero",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Subzero.jpg",
+        "origin": "Mortal Kombat",
+        "likes": 40
+      },
+      {
+        "id": 14,
+        "name": "Kratos",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/kratos.jpg",
+        "origin": "God of War",
+        "likes": 23
+      },
+      {
+        "id": 15,
+        "name": "Scorpion",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Scorpion.jpg",
+        "origin": "Mortal Kombat",
+        "likes": 22
+      },
+      {
+        "id": 16,
+        "name": "Ganondorf",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Ganondorf.png",
+        "origin": "The Legend of Zelda",
+        "likes": 20
+      },
+      {
+        "id": 17,
+        "name": "Cloud Strife",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Cloud-Strife.jpg",
+        "origin": "Final Fantasy",
+        "likes": 7
+      },
+      {
+        "id": 18,
+        "name": "Geralt of Rivia",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Geralt-of-Rivia.jpg",
+        "origin": "The Witcher",
+        "likes": 19
+      },
+      {
+        "id": 19,
+        "name": "Lara Croft",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Lara-Croft.jpg",
+        "origin": "Tomb Raider",
+        "likes": 4
+      },
+      {
+        "id": 20,
+        "name": "Solid Snake",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Solid-Snake.png",
+        "origin": "Metal Gear Solid",
+        "likes": 8
+      },
+      {
+        "id": 21,
+        "name": "Mario",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Mario.jpg",
+        "origin": "Mario Franchise",
+        "likes": 33
+      },
+      {
+        "id": 22,
+        "name": "Link",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Link.png",
+        "origin": "The Legend of Zelda",
+        "likes": 34
+      },
+      {
+        "id": 23,
+        "name": "Master Chief",
+        "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Master-Chief.jpg",
+        "origin": "Halo",
+        "likes": 38
+      },
+      {
+        "id": 24,
+        "name": "Goose",
+        "img": "https://cdn.vox-cdn.com/thumbor/2rgYZ_ybKhnkIfXxfRQyw036g2o=/0x0:660x371/720x0/filters:focal(0x0:660x371):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393751/goose.png",
+        "origin": "Untitled Goose Game",
+        "likes": 2
+      },
+      {
+        "id": 25,
+        "name": "Isabelle",
+        "img": "https://cdn.vox-cdn.com/thumbor/PA3Grc3N8_q5Rvce2V0aKx8bKyE=/0x0:1200x680/720x0/filters:focal(0x0:1200x680):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393758/isabel.jpg",
+        "origin": "Animal Crossing",
+        "likes": 1
+      },
+      {
+        "id": 26,
+        "name": "Lincoln Clay",
+        "img": "https://cdn.vox-cdn.com/thumbor/MNHv7b7JaCQxYTjkEv_13ciiB38=/0x0:1200x675/920x0/filters:focal(0x0:1200x675):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393986/lincolnclay.jpg",
+        "origin": "Mafia 3",
+        "likes": 4
+      },
+      {
+        "id": 27,
+        "name": "Marcus Fenix",
+        "img": "https://cdn.vox-cdn.com/thumbor/GFIL6Z3D7iCJZQb2jl9ui3esg90=/0x0:590x350/720x0/filters:focal(0x0:590x350):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393779/marcusfenix.jpg",
+        "origin": "Gears of War",
+        "likes": 1
+      },
+      {
+        "id": 28,
+        "name": "Paarthurnax",
+        "img": "https://cdn.vox-cdn.com/thumbor/2lMC0H0g13jbZkQfpdZ306BBlzQ=/0x0:700x463/720x0/filters:focal(0x0:700x463):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19394520/Paarthurnaax.jpg",
+        "origin": "The Elder Scrolls: Skyrim",
+        "likes": 29
+      },
+      {
+        "id": 29,
+        "name": "Tracer",
+        "img": "https://cdn.vox-cdn.com/thumbor/j4ihH_wSd4JEmgmzV6imIhxQFVI=/0x0:1500x1000/720x0/filters:focal(0x0:1500x1000):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393816/tracer.jpg",
+        "origin": "Overwatch",
+        "likes": 20
+      },
+      {
+        "id": 30,
+        "name": "Wario",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wario2-1594334792.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Mario Franchise",
+        "likes": 19
+      },
+      {
+        "id": 31,
+        "name": "Ellie",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ellie-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "The Last of Us",
+        "likes": 5
+      },
+      {
+        "id": 32,
+        "name": "Crash Bandicoot",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/crash-bandicoot-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Crash Bandicoot",
+        "likes": 7
+      },
+      {
+        "id": 33,
+        "name": "Ratchet and Clank",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ratchet-and-clank-1594326836.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Ratchet and Clank",
+        "likes": 9
+      },
+      {
+        "id": 34,
+        "name": "Kirby",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kirby-1594326725.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Kirby",
+        "likes": 40
+      },
+      {
+        "id": 35,
+        "name": "Donald Duck",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/donald-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Kingdom Hearts",
+        "likes": 9
+      },
+      {
+        "id": 36,
+        "name": "Fox McCloud",
+        "img": "https://static.wikia.nocookie.net/starfox/images/d/db/Sl_pilotdetail-gemini_ncsa.png/revision/latest?cb=20180920213746",
+        "origin": "Star Fox",
+        "likes": 1
+      },
+      {
+        "id": 37,
+        "name": "Winston",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/winston-1594334794.png?crop=1xw:1xh;center,top&resize=980:*",
+        "origin": "Overwatch",
+        "likes": 6
+      },
+      {
+        "id": 38,
+        "name": "Chun-Li",
+        "img": "https://howchoo.com/media/n2/y2/nj/chun-li.jpeg?width=1440&auto=webp&quality=70",
+        "origin": "Street Fighter",
+        "likes": 19
+      },
+      {
+        "id": 39,
+        "name": "Ryu",
+        "img": "https://howchoo.com/media/yt/jk/mz/ryu-street-fighter.jpeg?width=1440&auto=webp&quality=70",
+        "origin": "Street Fighter",
+        "likes": 11
+      },
+      {
+        "id": 40,
+        "name": "Raiden",
+        "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/06/Raiden-Mortal-Kombat-losing-control-Cropped.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
+        "origin": "Mortal Kombat",
+        "likes": 23
+      },
+      {
+        "id": 41,
+        "name": "Arthas",
+        "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Arthas_GO.jpg?fit=bounds&width=640&height=480",
+        "origin": "World of Warcraft",
+        "likes": 15
+      },
+      {
+        "id": 42,
+        "name": "Diablo",
+        "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Diablo_GO.jpg?fit=bounds&width=640&height=480",
+        "origin": "Diablo",
+        "likes": 11
+      },
+      {
+        "id": 43,
+        "name": "Tyrael",
+        "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Tyrael_GO.jpg?fit=bounds&width=640&height=480",
+        "origin": "Diablo",
+        "likes": 12
+      },
+      {
+        "id": 44,
+        "name": "Sylvanas Windrunner",
+        "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Sylvanas.jpg?fit=bounds&width=640&height=480",
+        "origin": "World of Warcraft",
+        "likes": 1
+      },
+      {
+        "id": 45,
+        "name": "Dante",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Dante_%28DMC%29.png",
+        "origin": "Devil May Cry",
+        "likes": 6
+      },
+      {
+        "id": 46,
+        "name": "Sora",
+        "img": "https://static.wikia.nocookie.net/kingdomhearts/images/0/00/Sora_KHIII_RM.png/revision/latest/scale-to-width-down/235?cb=20191212180535",
+        "origin": "Kingdom Hearts",
+        "likes": 12
+      },
+      {
+        "id": 47,
+        "name": "Bayonetta",
+        "img": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/11/maxresdefault-71.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
+        "origin": "Bayonetta",
+        "likes": 24
+      },
+      {
+        "id": 48,
+        "name": "Starkiller",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Starkiller.png",
+        "origin": "Star Wars: Force Unleashed",
+        "likes": 13
+      },
+      {
+        "id": 49,
+        "name": "Doomguy",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/01/doomguy-explosion.jpg?q=50&fit=crop&w=963&dpr=1.5",
+        "origin": "Doom",
+        "likes": 19
+      },
+      {
+        "id": 50,
+        "name": "Mewtwo",
+        "img": "https://static.wikia.nocookie.net/villains/images/d/de/Mewtwo_SSBU.png/revision/latest?cb=20200503204504",
+        "origin": "Pokemon",
+        "likes": 22
+      }
+    ]
+  }
