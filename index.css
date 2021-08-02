@@ -1,7 +1,8 @@
 #header {
     text-align: center;
     margin: 0 auto;
-    color: whitesmoke
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -24,9 +25,9 @@ body {
 
 .char-info {
     color: whitesmoke;
-    text-align: center;
-    display: table;
-    margin: 0 auto;
+    text-align: left;
+    margin-left: 150px;
+    list-style-type: none;
 }
 
 .char-publisher {
@@ -44,8 +45,13 @@ body {
     margin-right: 150px;
 }
 
-.fight-button {
-    background-image: url("images/fight-button.png");
-    height: 100px;
-    width: 100px;
+#fight-button {
+    background-image: url("images/fightgif.gif");
+    height: 125px;
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: auto;
+    border: 0;
+    background-size: 100%;
+    background-color: transparent;
 }
