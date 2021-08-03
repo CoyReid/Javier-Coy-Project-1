@@ -43,7 +43,7 @@ body {
     margin-right: 150px;
 }
 
-#fight-button {
+#random-button {
     height: 125px;
     width: 200px;
     margin-left: 150px;
@@ -108,6 +108,55 @@ body {
     background-repeat: no-repeat;
 }
 
+#marvel-two {
+    background-image: url("images/marvelimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#dc-two {
+    background-image: url("images/dcimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#movie-two {
+    background-image: url("images/movieimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#video-game-two {
+    background-image: url("images/gameimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#anime-two {
+    background-image: url("images/animeimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
 #buttons-container {
     display: flex;
 }

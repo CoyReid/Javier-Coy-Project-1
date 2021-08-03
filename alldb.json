@@ -1,5 +1,5 @@
 {
-    "characters": [
+    "movies": [
         {
             "id": 1,
             "name": "John Wick",
@@ -251,8 +251,12 @@
             "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6090f7f251c9c6c605e612fc%2FDarth-Vader%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D3127%26cropY1%3D33%26cropY2%3D1792",
             "origin": "Star Wars",
             "votes": 3
-        },
-        {
+        }
+      ],
+        
+        "videogames":
+        [
+          {
             "id": 38,
             "name": "Pikachu",
             "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Pikachu.jpg",
@@ -601,8 +605,11 @@
             "img": "https://static.wikia.nocookie.net/villains/images/d/de/Mewtwo_SSBU.png/revision/latest?cb=20200503204504",
             "origin": "Pokemon",
             "votes": 22
-          },
-          {
+          }],
+          
+          "marvel":
+          [
+            {
             "id": 88,
             "name": "Wolverine",
             "img": "https://www.giantfreakinrobot.com/wp-content/uploads/2020/10/hugh-jackman-wolverine.jpg",
@@ -887,8 +894,10 @@
             "img": "https://images.indianexpress.com/2021/03/falcon-anthony-mackie-1200.jpg",
             "origin":"Marvel",
             "votes": 1
-        },
-        {
+        }],
+        
+        "dc":[
+          {
             "id": 129,
             "name": "Superman",
             "img": "https://cdn.theatlantic.com/thumbor/cTP7DsiUyI81zFg8c-FDnIoCBhA=/540x0:2340x1800/540x540/media/img/mt/2016/01/superman/original.jpg",
@@ -999,7 +1008,8 @@
             "img": "https://pm1.narvii.com/6609/ce0f31955bb458aa7577b9127ebb3d11221c3b1d_hq.jpg",
             "origin":"DC",
             "votes": 1
-          },
+          }],
+          "anime":[
           {
             "id": 145,
             "name": "Saitama",
