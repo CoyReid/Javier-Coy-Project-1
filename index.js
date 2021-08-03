@@ -1,15 +1,41 @@
-const apiUrl = "https://www.superheroapi.com/api.php/2391311497678966/"
+// const apiUrl = "https://www.superheroapi.com/api.php/2391311497678966/"
 
-const firstCardData = () => {
-    fetch(`${apiUrl}${randomId(1, 731)}`)
-    .then(resp => resp.json())
-    .then(char => renderFirstChar(char))
+// const firstCardData = () => {
+//     fetch(`${apiUrl}${randomId(1, 731)}`)
+//     .then(resp => resp.json())
+//     .then(char => renderFirstChar(char))
+// }
+
+// const secondCardData = () => {
+//     fetch(`${apiUrl}${randomId(1, 731)}`)
+//     .then(resp => resp.json())
+//     .then(char => renderSecondChar(char))
+// }
+
+const marvelUrl = ""
+const dcUrl = ""
+const movieUrl = ""
+const animeUrl = ""
+const videoGameUrl = ""
+
+const getMarvel = () => {
+
 }
 
-const secondCardData = () => {
-    fetch(`${apiUrl}${randomId(1, 731)}`)
-    .then(resp => resp.json())
-    .then(char => renderSecondChar(char))
+const getDc = () => {
+
+}
+
+const getVideoGame = () => {
+
+}
+
+const getMovie = () => {
+
+}
+
+const getAnime = () => {
+
 }
 
 const randomId = (min, max) => {
