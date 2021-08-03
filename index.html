@@ -11,40 +11,38 @@
 <body>
     <header id="header">
         <h1 id="header-text">Who Would Win in a Fight? </h1><br>
-        <h3 id="header-directions">Click the button below to put two random characters against eachother!</h3>
+        <h3 id="header-directions">Choose from these universe options to pit two characters against eachother! Or click the button below to put two random characters against eachother!</h3>
     </header>
+    <div id="buttons-container">
+        <div id="char-one-select-buttons" class="button-bar">
+            <button id="marvel" class="universe-btn"></button>
+            <button id="dc" class="universe-btn"></button>
+            <button id="movie" class="universe-btn"></button>
+            <button id="video-game" class="universe-btn"></button>
+            <button id="anime" class="universe-btn"></button>
+        </div>
+        <button id="fight-button">Random</button>
+        <div id="char-two-select-buttons" class="button-bar">
+            <button id="marvel" class="universe-btn"></button>
+            <button id="dc" class="universe-btn"></button>
+            <button id="movie" class="universe-btn"></button>
+            <button id="video-game" class="universe-btn"></button>
+            <button id="anime" class="universe-btn"></button>
+        </div>
+    </div>
     <div id="main-section">
         <div id="cards-container">
             <div id="card-one" class="cards">
                 <img src="https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673-960x960.png" class="char-img" id="char-one-img">
-                <h2 class="char-name" id="char-one-name">
-                    Char one name
-                </h2>
-                <ul id="char-one-info" class="char-info">
-                    <li id="char-one-race" class="char-race">Race goes here</li>
-                    <li id="char-one-gender" class="char-gender">Gender goes here</li>
-                    <li id="char-one-height" class="char-height">Height goes here</li>
-                    <li id="char-one-weight" class="char-weight">Weight goes here</li>
-                </ul>
-                <h4 id="char-one-publisher" class="char-publisher">
-                    Publisher goes here
-                </h4>
+                <h2 id="char-one-name" class="char-name" >Char one name</h2>
+                <h3 id="char-one-votes" class="char-votes" >Votes: num</h3>
+                <h4 id="char-one-origin" class="char-origin">Origin</h4>
             </div>
-            <button id="fight-button"></button>
             <div id="card-two" class="cards">
                 <img src="https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673-960x960.png" class="char-img" id="char-two-img">
-                <h2 class="char-name" id="char-two-name">
-                    Char two name
-                </h2>
-                <ul id="char-two-info" class="char-info">
-                    <li id="char-two-race" class="char-race">Race goes here</li>
-                    <li id="char-two-gender" class="char-gender">Gender goes here</li>
-                    <li id="char-two-height" class="char-height">Height goes here</li>
-                    <li id="char-two-weight" class="char-weight">Weight goes here</li>
-                </ul>
-                <h4 id="char-two-publisher" class="char-publisher">
-                    Publisher goes here
-                </h4>
+                <h2 id="char-two-name" class="char-name" >Char two name</h2>
+                <h3 id="char-two-votes" class="char-votes">Votes: num</h3>
+                <h4 id="char-two-origin" class="char-origin">Origin</h4>
             </div>
         </div>
     </div>

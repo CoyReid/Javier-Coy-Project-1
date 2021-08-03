@@ -70,7 +70,6 @@ const init = () => {
     secondCardData();
 }
 
-init();
 
 const finder = (type) => {
     return document.querySelector(type)

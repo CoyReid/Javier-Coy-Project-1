@@ -23,14 +23,12 @@ body {
     text-align: center;
 }
 
-.char-info {
+.char-origin {
     color: whitesmoke;
-    text-align: left;
-    margin-left: 150px;
-    list-style-type: none;
+    text-align: center;
 }
 
-.char-publisher {
+.char-votes {
     color: whitesmoke;
     text-align: center;
 }
@@ -46,7 +44,6 @@ body {
 }
 
 #fight-button {
-    background-image: url("images/fightgif.gif");
     height: 125px;
     width: 200px;
     margin-left: 150px;
@@ -54,4 +51,63 @@ body {
     border: 0;
     background-size: 100%;
     background-color: transparent;
+    color: whitesmoke;
+}
+
+.button-bar {
+    display: flex;
+}
+
+#marvel {
+    background-image: url("images/marvelimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#dc {
+    background-image: url("images/dcimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#movie {
+    background-image: url("images/movieimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#video-game {
+    background-image: url("images/gameimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#anime {
+    background-image: url("images/animeimg.png");
+    background-size: 100%;
+    background-color: transparent;
+    border: 0;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
+
+#buttons-container {
+    display: flex;
 }
