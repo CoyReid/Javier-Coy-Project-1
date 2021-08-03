@@ -1,17 +1,3 @@
-// const apiUrl = "https://www.superheroapi.com/api.php/2391311497678966/"
-
-// const firstCardData = () => {
-//     fetch(`${apiUrl}${randomId(1, 731)}`)
-//     .then(resp => resp.json())
-//     .then(char => renderFirstChar(char))
-// }
-
-// const secondCardData = () => {
-//     fetch(`${apiUrl}${randomId(1, 731)}`)
-//     .then(resp => resp.json())
-//     .then(char => renderSecondChar(char))
-// }
-
 const allUrl = "http://localhost:3000/"
 
 const getAll = (directory, min, max) => {
@@ -31,7 +17,6 @@ const randomId = (min, max) => {
     return Math.floor(Math.random() * (max - min) + min);
 }
 
-
 const renderFirstChar = (char) => {
     const imageOne = finder("#char-one-img");
     imageOne.src = char.img;
@@ -43,9 +28,7 @@ const renderFirstChar = (char) => {
     votesOne.innerText = `Votes: ${char.votes}`;
 
     const originOne = finder("#char-one-origin")
-    originOne.innerText = char.origin;
-
-    
+    originOne.innerText = char.origin;  
 }
 
 const renderSecondChar = (char) => {
@@ -61,13 +44,6 @@ const renderSecondChar = (char) => {
     const originTwo = finder("#char-two-origin")
     originTwo.innerText = char.origin;
 }
-
-const init = () => {
-    firstCardData();
-    secondCardData();
-    
-}
-
 
 const finder = (type) => {
     return document.querySelector(type)
@@ -107,8 +83,8 @@ const btnEvents = () => {
     const randomButton = finder("#random-button")
     randomButton.addEventListener("click", e=> getRandom() )
 }
-
 btnEvents();
+
 const getMarvel = () => {
      getAll("marvel","88","128")
 }
@@ -149,7 +125,12 @@ const getVGTwo = () => {
    getAllTwo("videogames","38","87")
 }
 
-const getRandom = () => {
+// const getRandom = () => {
+//   getAll(`${optionGrabber()}`, "1", "159");
+//   getAllTwo(`${optionGrabber()}`, "1", "159");
+// }
 
-
-}
+// const optionGrabber = () => {
+//   let options = ["marvel", "dc", "videogames", "movies", "anime"]
+//   return options[Math.floor(Math.random() * options.length)];
+// }
