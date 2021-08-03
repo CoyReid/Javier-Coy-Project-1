@@ -5,105 +5,105 @@
             "name": "Saitama",
             "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/07/Saitama-in-One-Punch-Man.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "One Punch Man",
-            "likes": 31
+            "votes": 31
         },
         {
             "id": 2,
             "name": "Goku",
             "img": "https://static.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest?cb=20201225233414",
             "origin": "Dragon Ball Z",
-            "likes": 29
+            "votes": 29
         },
         {
             "id": 3,
             "name": "Avatar Aang",
             "img": "https://cdn.vox-cdn.com/thumbor/mXo5ObKpTbHYi9YslBy6YhfedT4=/95x601:1280x1460/1200x800/filters:focal(538x858:742x1062)/cdn.vox-cdn.com/uploads/chorus_image/image/66699060/mgidarccontentnick.comc008fa9d_d.0.png",
             "origin": "The Last Airbender",
-            "likes": 35 
+            "votes": 35 
         },
         {
             "id": 4,
             "name": "Eren Yaegar",
             "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2021/02/Attack-On-Titan-Can-Eren-Feel-Pain-In-His-Titan-Form1.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Attack on Titan",
-            "likes": 10
+            "votes": 10
         },
         {
             "id": 5,
             "name": "Isaac Netero",
             "img": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7a/NeteroSportswearFullbody.png/revision/latest?cb=20170725075319",
             "origin": "Hunter X Hunter",
-            "likes": 11 
+            "votes": 11 
         },
         {
             "id": 6,
             "name": "Alucard",
             "img": "https://static.wikia.nocookie.net/p__/images/a/a4/Alucard_Infobox.png/revision/latest?cb=20210419200513&path-prefix=protagonist",
             "origin": "Castlevania",
-            "likes": 2 
+            "votes": 2 
         },
         {
             "id": 7,
             "name": "Naruto Uzamaki",
             "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/03/Naruto-Uzumaki.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Naruto",
-            "likes": 30
+            "votes": 30
         },
         {
             "id": 8,
             "name": "Edward Elric",
             "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/10/Edward-Elric-in-Fullmetal-Alchemist.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Fullmetal Alchemist",
-            "likes": 25 
+            "votes": 25 
         },
         {
             "id": 9,
             "name": "Baki Hanma",
             "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2018/12/Baki-stares-out-at-the-viewer-in-Baki-the-Grappler.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Baki",
-            "likes": 12
+            "votes": 12
         },
         {
             "id": 10,
             "name": "Guts",
             "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/12/Guts-draws-his-blade-in-Berserk.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Berserk",
-            "likes": 15 
+            "votes": 15 
         },
         {
             "id": 11,
             "name": "Light Yagami",
             "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2021/03/Light-Yagami-from-Death-Note.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Death Note",
-            "likes": 20
+            "votes": 20
         },
         {
             "id": 13,
             "name": "Kazuto Kirigaya",
             "img": "https://static.fandomspot.com/images/10/9738/44-kazuto-kirigaya-sword-art-online-anime.jpg",
             "origin": "Sword Art Online",
-            "likes": 5
+            "votes": 5
         },
         {
             "id": 14,
             "name": "Zeno",
             "img": "https://static.fandomspot.com/images/10/9738/01-zeno-dragon-ball-super-anime-screenshot.jpg",
             "origin": "Dragon Ball Super",
-            "likes": 11 
+            "votes": 11 
         },
         {
             "id": 15,
             "name": "Monkey D. Luffy",
             "img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/02/Luffy.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "One Piece",
-            "likes": 8 
+            "votes": 8 
         },
         {
             "id": 16,
             "name": "Blackbeard",
             "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/01/Blackbeard-Power.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "One Piece",
-            "likes": 6 
+            "votes": 6 
         }
     ]
 }

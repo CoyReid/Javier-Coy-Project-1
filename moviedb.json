@@ -5,245 +5,252 @@
             "name": "John Wick",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/j-wick-church-0-1557156975.jpg?crop=0.447xw:1.00xh;0.303xw,0.00255xh&resize=980:*",
             "origin": "John Wick",
-            "likes": 2 
+            "votes": 2 
         },
         {
             "id": 2,
             "name": "King Leonidas",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leonidas-1618536781.jpg?crop=0.359xw:1.00xh;0.379xw,0&resize=980:*",
             "origin": "300",
-            "likes": 5 
+            "votes": 5 
         },
         {
             "id": 3,
             "name": "Adonis Creed",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/creed-ii-c2-00343-rc-rgb-1557151476.jpg?crop=0.447xw:1.00xh;0.233xw,0&resize=980:*",
             "origin": "Creed",
-            "likes": 7
+            "votes": 7
         },
         {
             "id": 4,
             "name": "James Bond",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ap-daniel-craig-kab-150212-12x5-992-1557152173.jpg?crop=0.281xw:1.00xh;0.328xw,0&resize=980:*",
             "origin": "James Bond",
-            "likes": 10 
+            "votes": 10 
         },
         {
             "id": 5,
             "name": "Hua Mulan",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mulan-920x584-1557153553.jpeg?crop=0.423xw:1.00xh;0.226xw,0.00268xh&resize=980:*",
             "origin": "Mulan",
-            "likes": 6
+            "votes": 6
         },
         {
             "id": 6,
             "name": "Katniss Everdeen",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/katniss-everdeen-in-the-hunger-games-1557153692.jpg?crop=0.420xw:1.00xh;0.437xw,0&resize=980:*",
             "origin": "The Hunger Games",
-            "likes": 12
+            "votes": 12
         },
         {
             "id": 7,
             "name": "Luke Hobbs",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/4c91e57ac0340d5eaf137cfc48ecb8bc-1557153402.jpg?crop=1xw:0.9983361064891847xh;center,top&resize=980:*",
             "origin": "The Fast and the Furious",
-            "likes": 5
+            "votes": 5
         },
         {
             "id": 8,
             "name": "Han Solo",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/open-uri20150608-27674-nfid8t-2aab8189-1557154426.jpeg?crop=0.376xw:1.00xh;0.490xw,0&resize=980:*",
             "origin": "Star Wars",
-            "likes": 11
+            "votes": 11
         },
         {
             "id": 9,
             "name": "Indiana Jones",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/indiana-jones-01-4apr18-rex-b-1557154593.jpg?crop=1xw:1xh;center,top&resize=980:*",
             "origin": "Indiana Jones",
-            "likes": 12
+            "votes": 12
         },
         {
             "id": 10,
             "name": "Morpheus",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kia-morpheus-1557155006.jpg?crop=0.301xw:1.00xh;0.352xw,0&resize=980:*",
             "origin": "The Matrix",
-            "likes": 15
+            "votes": 15
         },
         {
             "id": 11,
             "name": "Bryan Mills",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sei-51382140-b650-1557155110.jpg?crop=0.447xw:1.00xh;0.243xw,0&resize=980:*",
             "origin": "Taken",
-            "likes": 9 
+            "votes": 9 
         },
         {
             "id": 12,
             "name": "Lee",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bruce-lee-in-enter-the-dragon-1557156333.jpg?crop=0.502xw:1.00xh;0.289xw,0&resize=768:*&keepGifs=1",
             "origin": "Enter the Dragon",
-            "likes": 21 
+            "votes": 21 
         },
         {
             "id": 13,
             "name": "Maxiumus Decimus Meridius",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/242016-gladiator-1557156572.jpg?crop=0.471xw:1.00xh;0.408xw,0&resize=768:*&keepGifs=1",
             "origin": "Gladiator",
-            "likes": 22
+            "votes": 22
         },
         {
             "id": 14,
             "name": "Jason Bourne",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jason-bourne-1557155559.jpg?crop=0.580xw:1.00xh;0.185xw,0&resize=768:*&keepGifs=1",
             "origin": "Bourne",
-            "likes": 6
+            "votes": 6
         },
         {
             "id": 15,
             "name": "John Rambo",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rambo-1557155777.jpg?crop=0.376xw:1.00xh;0.500xw,0&resize=768:*&keepGifs=1",
             "origin": "Rambo",
-            "likes": 9
+            "votes": 9
         },
         {
             "id": 16,
             "name": "T-800",
             "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/62e77caa7a9bf6bc2131b19e0db425a3-1557156127.jpg?crop=0.8981481481481481xw:1xh;center,top&resize=768:*&keepGifs=1",
             "origin": "Terminator",
-            "likes": 12
+            "votes": 12
         },
         {
             "id": 17,
             "name": "Shrek",
             "img": "https://www.cleveland.com/resizer/Gr0GuArhZqjgK9u3brVVMQdoysA=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/4eb3a4f864/width2048/28b_nnsmoviesshrek2.jpeg",
             "origin": "Shrek",
-            "likes": 31
+            "votes": 31
         },
         {
             "id": 18,
             "name": "Harry Potter",
             "img": "https://www.cleveland.com/resizer/0lygdbokNSfLhHz-i5JtNP-i3GU=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/a6dbfec137/width2048/a0f_harrypotterwand1.jpeg",
             "origin": "Harry Potter",
-            "likes": 12 
+            "votes": 12 
         },
         {
             "id": 19,
             "name": "Gollum",
             "img": "https://www.cleveland.com/resizer/3DXJnIptvk2WcpHBj1vphPJ_0ZM=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/5ea54a9d3d/width2048/f74_twotowers3.jpeg",
             "origin": "The Lord of the Rings",
-            "likes": 1
+            "votes": 1
         },
         {
             "id": 20,
             "name": "Captain Jack Sparrow",
             "img": "https://www.cleveland.com/resizer/j-z6kspgB2s7z6ygTwB82t12Hus=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/aeff21dc56/width2048/fa0_jacksparrow.jpeg",
             "origin": "Pirates of the Caribbean",
-            "likes": 12 
+            "votes": 12 
         },
         {
             "id": 21,
             "name": "Patrick Bateman",
             "img": "https://www.cleveland.com/resizer/VVpen5G4YRnE3MK0JiVp4_gA4jY=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/1aa9760207/width2048/90e_americanpsychobroadwaymattsmithbenaldridgechristianbale01.jpeg",
             "origin": "American Psycho",
-            "likes": 13 
+            "votes": 13 
         },
         {
             "id": 22,
             "name": "Gandalf",
             "img": "https://www.cleveland.com/resizer/5T3v7scKjLBArraIi3wypftFkiw=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/c91d065a89/width2048/dd7_56825812286688603mk20d.jpeg",
             "origin": "Lord of the Rings",
-            "likes": 17
+            "votes": 17
         },
         {
             "id": 23,
             "name": "Minions",
             "img": "https://www.cleveland.com/resizer/7e3tVPuGtb_0kxEwXccD3WL10EA=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/723f915dfc/width2048/65b_minions00minionsintro.jpeg",
             "origin": "Despicable Me",
-            "likes": 1
+            "votes": 1
         },
         {
             "id": 24,
             "name": "Kylo Ren",
             "img": "https://www.cleveland.com/resizer/la6VQDgK3KH424-jF0tt0K9Bb1s=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/3442b5bb61/width2048/0c9_kylo.jpeg",
             "origin": "Star Wars",
-            "likes": 20
+            "votes": 20
         },
         {
             "id": 25,
             "name": "Voldemort",
             "img": "https://static.tvtropes.org/pmwiki/pub/images/voldemort.jpg",
             "origin": "Harry Potter",
-            "likes": 19 
+            "votes": 19 
         },
         {
             "id": 26,
             "name": "Sauron",
             "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/07/Sauron-Base-Form-lord-of-the-rings-Edited.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Lord of the Rings",
-            "likes": 10
+            "votes": 10
         },
         {
             "id": 27,
             "name": "Davy Jones",
             "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/Davy-Jones.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Pirates of the Caribbean",
-            "likes": 2 
+            "votes": 2 
         },
         {
             "id": 28,
             "name": "Wicked Witch of the West",
             "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2016/10/The-Wicked-Witch-of-the-West.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "The Wizard of Oz",
-            "likes": 5
+            "votes": 5
         },
         {
             "id": 29,
             "name": "Godzilla",
             "img": "https://www.techadvisor.com/cmsdata/features/3800585/how_to_watch_godzilla_vs_kong__1__thumb1200_4-3.jpg",
             "origin": "Godzilla",
-            "likes": 21 
+            "votes": 21 
         },
         {
             "id": 30,
             "name": "Kong",
             "img": "https://img.cinemablend.com/quill/2/1/8/3/0/6/218306412548ccbcca04bef18b7f82c728da7592.jpg",
             "origin": "King Kong",
-            "likes": 39
+            "votes": 39
         },
         {
             "id": 31,
             "name": "Genie",
             "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/Genie.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
             "origin": "Aladdin",
-            "likes": 21
+            "votes": 21
         },
         {
             "id": 32,
             "name": "Hercules",
             "img": "https://static.wikia.nocookie.net/disney/images/7/70/Profile_-_Hercules.jpeg/revision/latest/top-crop/width/360/height/450?cb=20190425234021",
             "origin": "Hercules",
-            "likes": 22
+            "votes": 22
         },
         {
             "id": 34,
             "name": "Mr. Incredible",
             "img": "https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/01/mr_incredible-HD-1421060623.jpg?quality=.8&height=450&width=800",
             "origin": "The Incredibles",
-            "likes": 2 
+            "votes": 2 
         },
         {
             "id": 35,
             "name": "Tarzan",
             "img": "https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/01/tarzan-1420994098.jpg?quality=.8&height=400&width=644",
             "origin": "Tarzan",
-            "likes": 4
+            "votes": 4
         },
         {
             "id": 36,
             "name": "Scar",
             "img": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/04/scar-personnage-le-roi-lion-05.jpg?q=50&fit=crop&w=963&h=537&dpr=1.5",
             "origin": "The Lion King",
-            "likes": 3
+            "votes": 3
+        },
+        {
+            "id": 37,
+            "name": "Darth Vader",
+            "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6090f7f251c9c6c605e612fc%2FDarth-Vader%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D3127%26cropY1%3D33%26cropY2%3D1792",
+            "origin": "Star Wars",
+            "votes": 3
         }
     ]
 }
