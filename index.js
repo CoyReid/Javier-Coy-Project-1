@@ -125,12 +125,52 @@ const getVGTwo = () => {
    getAllTwo("videogames","38","87")
 }
 
-// const getRandom = () => {
-//   getAll(`${optionGrabber()}`, "1", "159");
-//   getAllTwo(`${optionGrabber()}`, "1", "159");
-// }
+//  const getRandom = () => {
+    
+//     randomFirst();
+//     randomSecond();
+     
 
-// const optionGrabber = () => {
-//   let options = ["marvel", "dc", "videogames", "movies", "anime"]
-//   return options[Math.floor(Math.random() * options.length)];
+//    // getAll(`${optionGrabber()}`, "1", "159");
+//    //getAllTwo(`${optionGrabber()}`, "1", "159");
+//  }
+
+//  const optionGrabber = () => {
+//    let options = ["marvel", "dc", "videogames", "movies", "anime"]
+//    return options[Math.floor(Math.random() * options.length)];
+//  }
+
+// function randomFirst () {
+//     const result = optionGrabber();
+//     let values = [];
+//     if (result.toString() === "marvel") {
+//         values.push("marvel", "88", "128");
+//     } else if (result.toString() === "dc") {
+//         values.push("dc", "129", "144");
+//     } else if (result.toString() === "videogames") {
+//         values.push("videogames", "38", "87");
+//     } else if (result.toString() === "movies") {
+//         values.push("movies", "1", "37");
+//     } else if (result.toString() === "anime") {
+//         values.push("anime", "145", "159");
+//     }
+//     getAll(`${values[0]}, ${parseInt.values[1]}, ${parseInt.values[2]}`);
 // }
+// function randomSecond () {
+//     const result = optionGrabber();
+//     let values = [];
+//     if (result.toString() === "marvel") {
+//         values.push("marvel", "88", "128");
+//     } else if (result.toString() === "dc") {
+//         values.push("dc", "129", "144");
+//     } else if (result.toString() === "videogames") {
+//         values.push("videogames", "38", "87");
+//     } else if (result.toString() === "movies") {
+//         values.push("movies", "1", "37");
+//     } else if (result.toString() === "anime") {
+//         values.push("anime", "145", "159");
+//     }
+//     getAllTwo(`${values[0]},${parseInt.values[1]}, parse${values[2]}`);
+//  }
+
+
