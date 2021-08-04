@@ -128,10 +128,10 @@
     },
     {
       "id": 19,
-      "name": "Gollum",
-      "img": "images/gollumpic.png",
-      "origin": "The Lord of the Rings",
-      "votes": 1
+      "name": "Optimus Prime",
+      "img": "images/optimuspic.png",
+      "origin": "Transformers",
+      "votes": 6
     },
     {
       "id": 20,
@@ -173,7 +173,7 @@
       "name": "Voldemort",
       "img": "images/voldemortpic.png",
       "origin": "Harry Potter",
-      "votes": 19
+      "votes": 20
     },
     {
       "id": 26,
@@ -271,7 +271,7 @@
     {
       "id": 39,
       "name": "Ezio Auditore",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Ezio-Auditore-De-Firenze.jpg",
+      "img": "https://static.wikia.nocookie.net/assassinscreed/images/6/66/ACI-Ezio.png/revision/latest?cb=20131014134656",
       "origin": "Assassin's Creed",
       "votes": 24
     },
@@ -292,35 +292,35 @@
     {
       "id": 42,
       "name": "Gordon Freeman",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Gordon-Freeman.jpg",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/f/ff/Halflife2gfrender.png/revision/latest?cb=20180620225954",
       "origin": "Half-Life",
       "votes": 2
     },
     {
       "id": 43,
       "name": "Samus Aran",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Samus-Aran.jpg",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/4d/Samus_-_Super_Smash_Bros._Ultimate.png/revision/latest?cb=20180612205333",
       "origin": "Metroid",
       "votes": 7
     },
     {
       "id": 44,
       "name": "Princess Zelda",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Princess-Zelda.jpg",
+      "img": "images/zeldapic.png",
       "origin": "The Legend of Zelda",
       "votes": 9
     },
     {
       "id": 45,
       "name": "Agent 47",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Agent-47.jpg",
+      "img": "images/hitmanpic.png",
       "origin": "Hitman",
       "votes": 2
     },
     {
       "id": 46,
       "name": "Sonic the Hedgehog",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Sonic-the-Hedgehog.jpg",
+      "img": "images/sonicpic.png",
       "origin": "Sonic",
       "votes": 5
     },
@@ -341,56 +341,56 @@
     {
       "id": 49,
       "name": "Mega Man",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Megaman.jpg",
+      "img": "https://static.wikia.nocookie.net/pm-universe/images/2/27/MegaMan-MM11.png/revision/latest?cb=20190809214439",
       "origin": "Megaman",
       "votes": 2
     },
     {
       "id": 50,
       "name": "Subzero",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Subzero.jpg",
+      "img": "images/subzeropic.png",
       "origin": "Mortal Kombat",
       "votes": 40
     },
     {
       "id": 51,
       "name": "Kratos",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/kratos.jpg",
+      "img": "images/kratospic.png",
       "origin": "God of War",
       "votes": 23
     },
     {
       "id": 52,
       "name": "Scorpion",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Scorpion.jpg",
+      "img": "images/scorpionpic.png",
       "origin": "Mortal Kombat",
       "votes": 22
     },
     {
       "id": 53,
       "name": "Ganondorf",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Ganondorf.png",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51a6d577-e0a8-4019-8457-6f29d7ec23f6/dddodxs-455bb172-20e4-479f-be89-067a53ea96bd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxYTZkNTc3LWUwYTgtNDAxOS04NDU3LTZmMjlkN2VjMjNmNlwvZGRkb2R4cy00NTViYjE3Mi0yMGU0LTQ3OWYtYmU4OS0wNjdhNTNlYTk2YmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0zIg1JJB6_vArA4cJS9--nA5rGxrtcyQJoorB1RfXxw",
       "origin": "The Legend of Zelda",
       "votes": 20
     },
     {
       "id": 54,
       "name": "Cloud Strife",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Cloud-Strife.jpg",
+      "img": "https://static.wikia.nocookie.net/spellcasters/images/9/9e/Cloud_Strife.png/revision/latest?cb=20200526143823",
       "origin": "Final Fantasy",
       "votes": 7
     },
     {
       "id": 55,
       "name": "Geralt of Rivia",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Geralt-of-Rivia.jpg",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/8/8d/Geralt_stuff.png/revision/latest?cb=20170105222826",
       "origin": "The Witcher",
       "votes": 19
     },
     {
       "id": 56,
       "name": "Lara Croft",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Lara-Croft.jpg",
+      "img": "https://pngimg.com/uploads/lara_croft/lara_croft_PNG43.png",
       "origin": "Tomb Raider",
       "votes": 4
     },
@@ -404,105 +404,105 @@
     {
       "id": 58,
       "name": "Mario",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Mario.jpg",
+      "img": "https://pngimg.com/uploads/mario/mario_PNG116.png",
       "origin": "Mario Franchise",
       "votes": 33
     },
     {
       "id": 59,
       "name": "Link",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/12/Link.png",
+      "img": "images/linkpic.png",
       "origin": "The Legend of Zelda",
       "votes": 34
     },
     {
       "id": 60,
       "name": "Master Chief",
-      "img": "https://www.gamedesigning.org/wp-content/uploads/2016/10/Master-Chief.jpg",
+      "img": "images/chiefpic.png",
       "origin": "Halo",
       "votes": 38
     },
     {
       "id": 61,
-      "name": "Goose",
-      "img": "https://cdn.vox-cdn.com/thumbor/2rgYZ_ybKhnkIfXxfRQyw036g2o=/0x0:660x371/720x0/filters:focal(0x0:660x371):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393751/goose.png",
-      "origin": "Untitled Goose Game",
+      "name": "Marth",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/ff/Marth_-_Super_Smash_Bros._Ultimate.png/revision/latest?cb=20180612204959",
+      "origin": "Fire Emblem",
       "votes": 2
     },
     {
       "id": 62,
       "name": "Isabelle",
-      "img": "https://cdn.vox-cdn.com/thumbor/PA3Grc3N8_q5Rvce2V0aKx8bKyE=/0x0:1200x680/720x0/filters:focal(0x0:1200x680):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393758/isabel.jpg",
+      "img": "http://assets.stickpng.com/images/5f539984060f2e000485808f.png",
       "origin": "Animal Crossing",
       "votes": 3
     },
     {
       "id": 63,
       "name": "Lincoln Clay",
-      "img": "https://cdn.vox-cdn.com/thumbor/MNHv7b7JaCQxYTjkEv_13ciiB38=/0x0:1200x675/920x0/filters:focal(0x0:1200x675):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393986/lincolnclay.jpg",
+      "img": "images/lincolnpic.png",
       "origin": "Mafia 3",
       "votes": 4
     },
     {
       "id": 64,
       "name": "Marcus Fenix",
-      "img": "https://cdn.vox-cdn.com/thumbor/GFIL6Z3D7iCJZQb2jl9ui3esg90=/0x0:590x350/720x0/filters:focal(0x0:590x350):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393779/marcusfenix.jpg",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Marcus_Fenix_%28character%29.png/220px-Marcus_Fenix_%28character%29.png",
       "origin": "Gears of War",
       "votes": 1
     },
     {
       "id": 65,
       "name": "Paarthurnax",
-      "img": "https://cdn.vox-cdn.com/thumbor/2lMC0H0g13jbZkQfpdZ306BBlzQ=/0x0:700x463/720x0/filters:focal(0x0:700x463):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19394520/Paarthurnaax.jpg",
+      "img": "images/parthpic.png",
       "origin": "The Elder Scrolls: Skyrim",
       "votes": 29
     },
     {
       "id": 66,
       "name": "Tracer",
-      "img": "https://cdn.vox-cdn.com/thumbor/j4ihH_wSd4JEmgmzV6imIhxQFVI=/0x0:1500x1000/720x0/filters:focal(0x0:1500x1000):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19393816/tracer.jpg",
+      "img": "images/tracerpic.png",
       "origin": "Overwatch",
       "votes": 20
     },
     {
       "id": 67,
       "name": "Wario",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wario2-1594334792.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "https://mario.wiki.gallery/images/thumb/2/29/SMPWario.png/1200px-SMPWario.png",
       "origin": "Mario Franchise",
       "votes": 19
     },
     {
       "id": 68,
-      "name": "Ellie",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ellie-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "name": "Joel",
+      "img": "images/joelpic.png",
       "origin": "The Last of Us",
       "votes": 5
     },
     {
       "id": 69,
       "name": "Crash Bandicoot",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/crash-bandicoot-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "images/crashpic.png",
       "origin": "Crash Bandicoot",
       "votes": 7
     },
     {
       "id": 70,
       "name": "Ratchet and Clank",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ratchet-and-clank-1594326836.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "https://www.pngkit.com/png/full/399-3999153_ratchet-et-clank-png-ratchet-and-clank-png.png",
       "origin": "Ratchet and Clank",
       "votes": 9
     },
     {
       "id": 71,
       "name": "Kirby",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kirby-1594326725.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "http://assets.stickpng.com/images/5aafb0067603fc558cffc0ad.png",
       "origin": "Kirby",
       "votes": 40
     },
     {
       "id": 72,
       "name": "Donald Duck",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/donald-1594326358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "https://static.wikia.nocookie.net/kingdomhearts/images/7/75/Donald_Duck_KH3.png/revision/latest?cb=20181214004256",
       "origin": "Kingdom Hearts",
       "votes": 9
     },
@@ -516,56 +516,56 @@
     {
       "id": 74,
       "name": "Winston",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/winston-1594334794.png?crop=1xw:1xh;center,top&resize=980:*",
+      "img": "images/winstonpic.png",
       "origin": "Overwatch",
       "votes": 6
     },
     {
       "id": 75,
       "name": "Sagat",
-      "img": "https://i.redd.it/j6b5v1zkenn41.png",
+      "img": "https://static.wikia.nocookie.net/gamingdatabase/images/1/14/Sagat_Profile.png/revision/latest/scale-to-width-down/250?cb=20190501082945",
       "origin": "Street Fighter",
       "votes": 19
     },
     {
       "id": 76,
       "name": "Ryu",
-      "img": "https://howchoo.com/media/yt/jk/mz/ryu-street-fighter.jpeg?width=1440&auto=webp&quality=70",
+      "img": "https://static.wikia.nocookie.net/all-worlds-alliance/images/3/30/Street-fighter-png-ryu-png-image-780.png/revision/latest?cb=20190108141031",
       "origin": "Street Fighter",
       "votes": 11
     },
     {
       "id": 77,
       "name": "Raiden",
-      "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/06/Raiden-Mortal-Kombat-losing-control-Cropped.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
+      "img": "https://freepngimg.com/thumb/mortal_kombat/20517-7-mortal-kombat-raiden-photos.png",
       "origin": "Mortal Kombat",
       "votes": 23
     },
     {
       "id": 78,
       "name": "Arthas",
-      "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Arthas_GO.jpg?fit=bounds&width=640&height=480",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/3/33/Warcraft_-_Arthas_Menethil%2C_The_Lich_King.png/revision/latest?cb=20160914031200",
       "origin": "World of Warcraft",
       "votes": 15
     },
     {
       "id": 79,
       "name": "Diablo",
-      "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Diablo_GO.jpg?fit=bounds&width=640&height=480",
+      "img": "images/diablopic.png",
       "origin": "Diablo",
       "votes": 11
     },
     {
       "id": 80,
-      "name": "Tyrael",
-      "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Tyrael_GO.jpg?fit=bounds&width=640&height=480",
-      "origin": "Diablo",
+      "name": "Luigi",
+      "img": "https://i.pinimg.com/originals/2f/cc/0d/2fcc0d238a5be0222921b29a9ffe3071.png",
+      "origin": "Super Mario Bros",
       "votes": 12
     },
     {
       "id": 81,
       "name": "Sylvanas Windrunner",
-      "img": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2017/11/Blizzard_Sylvanas.jpg?fit=bounds&width=640&height=480",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c32fe00-a989-4f20-be40-95646271b2e8/d9e6vj0-ed3be2ce-fbc6-48b4-a927-821c76f16783.png/v1/fill/w_1024,h_774,strp/sylvanas_windrunner_png_by_luizabegotten_d9e6vj0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzc0IiwicGF0aCI6IlwvZlwvOGMzMmZlMDAtYTk4OS00ZjIwLWJlNDAtOTU2NDYyNzFiMmU4XC9kOWU2dmowLWVkM2JlMmNlLWZiYzYtNDhiNC1hOTI3LTgyMWM3NmYxNjc4My5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nuTpe2zUvGmNPZD6AhOg1rnTNyGX8PcQbs1QWIqcwzg",
       "origin": "World of Warcraft",
       "votes": 2
     },
@@ -586,7 +586,7 @@
     {
       "id": 84,
       "name": "Bayonetta",
-      "img": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/11/maxresdefault-71.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
+      "img": "https://static.wikia.nocookie.net/anarchyreigns/images/5/57/Anarchy_Reigns_-_Bayonetta.png/revision/latest?cb=20130126000323",
       "origin": "Bayonetta",
       "votes": 24
     },
@@ -600,7 +600,7 @@
     {
       "id": 86,
       "name": "Doomguy",
-      "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/01/doomguy-explosion.jpg?q=50&fit=crop&w=963&dpr=1.5",
+      "img": "https://static.wikia.nocookie.net/doom/images/f/fa/3692FCC3-B4DD-4DE9-B57C-7E7569BF0154.png/revision/latest?cb=20210321212452",
       "origin": "Doom",
       "votes": 19
     },
