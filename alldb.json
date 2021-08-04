@@ -54,7 +54,7 @@
       "name": "Han Solo",
       "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/open-uri20150608-27674-nfid8t-2aab8189-1557154426.jpeg?crop=0.376xw:1.00xh;0.490xw,0&resize=980:*",
       "origin": "Star Wars",
-      "votes": 11
+      "votes": 12
     },
     {
       "id": 9,
@@ -639,7 +639,7 @@
       "name": "Hulk",
       "img": "https://i.pinimg.com/originals/33/e5/32/33e53259473dbc5be156ed935c900aeb.jpg",
       "origin": "Marvel",
-      "votes": 20
+      "votes": 21
     },
     {
       "id": 92,
@@ -935,7 +935,7 @@
       "name": "Green Lantern",
       "img": "https://imgix.bustle.com/uploads/image/2017/11/17/0e7ae78b-8ff4-482d-8f69-16a8e2381807-rehost2f20162f92f132f6bcc6365-941b-419d-812d-79063c4d7fda.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
       "origin": "DC",
-      "votes": 8
+      "votes": 9
     },
     {
       "id": 134,
@@ -1021,7 +1021,7 @@
       "name": "Saitama",
       "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/07/Saitama-in-One-Punch-Man.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
       "origin": "One Punch Man",
-      "votes": 31
+      "votes": 36
     },
     {
       "id": 146,
@@ -1070,7 +1070,7 @@
       "name": "Edward Elric",
       "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/10/Edward-Elric-in-Fullmetal-Alchemist.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
       "origin": "Fullmetal Alchemist",
-      "votes": 25
+      "votes": 28
     },
     {
       "id": 153,
@@ -1112,7 +1112,7 @@
       "name": "Monkey D. Luffy",
       "img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/02/Luffy.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5",
       "origin": "One Piece",
-      "votes": 8
+      "votes": 9
     },
     {
       "id": 159,
