@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function() {
+    btnEvents();
+})
+
 const allUrl = "http://localhost:3000/"
 
 const getAll = (directory, min, max) => {
@@ -38,7 +42,20 @@ const renderFirstChar = (char) => {
     votesOne.innerText = `Votes: ${char.votes}`;
 
     const originOne = finder("#char-one-origin")
-    originOne.innerText = char.origin;  
+    originOne.innerText = char.origin;
+    originOne.value = char.id;  
+
+    if (char.id < 38) {
+        nameOne.value = "movies";
+    } else if (char.id > 37 && char.id < 88) {
+        nameOne.value = "videogames";
+    } else if (char.id > 87 && char.id < 129) {
+        nameOne.value = "marvel";
+    } else if (char.id > 128 && char.id < 145) {
+        nameOne.value = "dc";
+    } else if (char.id > 144 && char.id < 160) {
+        nameOne.value = "anime";
+    }
 }
 
 const renderSecondChar = (char) => {
@@ -53,6 +70,19 @@ const renderSecondChar = (char) => {
 
     const originTwo = finder("#char-two-origin")
     originTwo.innerText = char.origin;
+    originTwo.value = char.id;
+
+    if (char.id < 38) {
+        nameTwo.value = "movies";
+    } else if (char.id > 37 && char.id < 88) {
+        nameTwo.value = "videogames";
+    } else if (char.id > 87 && char.id < 129) {
+        nameTwo.value = "marvel";
+    } else if (char.id > 128 && char.id < 145) {
+        nameTwo.value = "dc";
+    } else if (char.id > 144 && char.id < 160) {
+        nameTwo.value = "anime";
+    }
 }
 
 const finder = (type) => {
@@ -61,52 +91,69 @@ const finder = (type) => {
 
 const btnEvents = () => {
     const marvelButton = finder("#marvel");
-    marvelButton.addEventListener("click", e => getAll("marvel","88","128"))
+    marvelButton.addEventListener("click", e => getAll("marvel","88","128"));
     
     const dcButton = finder("#dc");
-    dcButton.addEventListener("click", e => getAll("dc","129","144"))
+    dcButton.addEventListener("click", e => getAll("dc","129","144"));
     
     const animeButton = finder("#anime");
-    animeButton.addEventListener("click", e => getAll("anime","145","159"))
+    animeButton.addEventListener("click", e => getAll("anime","145","159"));
 
     const moviesButton = finder("#movie");
-    moviesButton.addEventListener("click", e => getAll("movies","1","37"))
+    moviesButton.addEventListener("click", e => getAll("movies","1","37"));
 
     const vgButton = finder("#video-game");
-    vgButton.addEventListener("click", e => getAll("videogames","38","87"))
+    vgButton.addEventListener("click", e => getAll("videogames","38","87"));
 
     const marvelButtonTwo = finder("#marvel-two");
-    marvelButtonTwo.addEventListener("click", e => getAllTwo("marvel","88","128"))
+    marvelButtonTwo.addEventListener("click", e => getAllTwo("marvel","88","128"));
 
     const dcButtonTwo = finder("#dc-two");
-    dcButtonTwo.addEventListener("click", e => getAllTwo("dc","129","144"))
+    dcButtonTwo.addEventListener("click", e => getAllTwo("dc","129","144"));
 
     const animeButtonTwo = finder("#anime-two");
-    animeButtonTwo.addEventListener("click", e => getAllTwo("anime","145","159"))
+    animeButtonTwo.addEventListener("click", e => getAllTwo("anime","145","159"));
 
     const moviesButtonTwo = finder("#movie-two");
-    moviesButtonTwo.addEventListener("click", e => getAllTwo("movies","1","37"))
+    moviesButtonTwo.addEventListener("click", e => getAllTwo("movies","1","37"));
 
     const vgButtonTwo = finder("#video-game-two");
-    vgButtonTwo.addEventListener("click", e => getAllTwo("videogames","38","87"))
+    vgButtonTwo.addEventListener("click", e => getAllTwo("videogames","38","87"));
 
-    const voteButtonOne = finder("#vote-button-one")
-    voteButtonOne.addEventListener("click", e => showVotes())
+    const voteButtonOne = finder("#vote-button-one");
+    voteButtonOne.addEventListener("click", e => showVotes());
 
-    const voteButtonTwo = finder("#vote-button-two")
-    voteButtonTwo.addEventListener("click", e => showVotes())
+    const voteButtonTwo = finder("#vote-button-two");
+    voteButtonTwo.addEventListener("click", e => showVotes());
     
-    const randomButton = finder("#random-button")
-    randomButton.addEventListener("click", e=> getRandom())
+    const randomButton = finder("#random-button");
+    randomButton.addEventListener("click", e=> getRandom());
 }
 
-btnEvents();
+const updateVotes = (e) => {
+    const votesEl = event.target.previousElementSibling;
+    const votes = votesEl.innerText.split(" ");
+    const newVotes = parseInt(votes[1]) + 1;
+    votesEl.innerText = `Votes: ${newVotes}`
+
+    const destination = event.target.previousElementSibling.previousElementSibling.previousElementSibling;
+    const destName = destination.value;
+    const idNum = event.target.previousElementSibling.previousElementSibling;
+    const idValue = idNum.value;
+
+    fetch(`${allUrl}${destName}/${idValue}`, {
+        method: "PATCH",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({votes: newVotes})
+    })
+}
 
 const showVotes = () => {
     const votesOne = finder("#char-one-votes")
     votesOne.style.display = "block"
     const votesTwo = finder("#char-two-votes")
     votesTwo.style.display = "block"
+    updateVotes();
 }
 
 const getRandom = () => {
