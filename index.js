@@ -18,6 +18,12 @@ const getAllTwo = (directory, min, max) => {
     hideVotes();
 }
 
+const test = (direct, id) => {
+    fetch(`http://localhost:3000/${direct}/${id}`)
+    .then(res=> res.json())
+    .then(char=> renderFirstChar(char))
+}
+
 const hideVotes = () => {
     const votesOne = finder("#char-one-votes")
     votesOne.style.display = "none"
