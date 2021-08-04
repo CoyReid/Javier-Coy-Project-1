@@ -1,9 +1,11 @@
 #header {
-    text-align: center;
+    background-image: url(images/Web\ 1366x384.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+    margin-top: 300px;
+    text-align:center;
     margin: 0 auto;
-    color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
 }
 
 #header-text {
@@ -49,12 +51,11 @@ body {
     border: 0;
     height: 100px;
     width: 100px;
-    margin-left: 75px;
-    margin-right: 75px;
     background-repeat: no-repeat;
     background-image: url("images/shufflebutton.png");
     padding-bottom: 125px;
-}
+    margin-top: 350px;
+}  
 
 #random-button:hover {
     width: 125px;
