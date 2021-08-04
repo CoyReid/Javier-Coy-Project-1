@@ -4,11 +4,21 @@ const getAll = (directory, min, max) => {
     fetch(`${allUrl}${directory}/${randomId(min, max)}`)
     .then(resp => resp.json())
     .then(char => renderFirstChar(char))
+    hideVotes();
 }
+
 const getAllTwo = (directory, min, max) => {
     fetch(`${allUrl}${directory}/${randomId(min, max)}`)
     .then(resp => resp.json())
     .then(char => renderSecondChar(char))
+    hideVotes();
+}
+
+const hideVotes = () => {
+    const votesOne = finder("#char-one-votes")
+    votesOne.style.display = "none"
+    const votesTwo = finder("#char-two-votes")
+    votesTwo.style.display = "none"
 }
 
 const randomId = (min, max) => {
@@ -51,126 +61,101 @@ const finder = (type) => {
 
 const btnEvents = () => {
     const marvelButton = finder("#marvel");
-    marvelButton.addEventListener("click", e => getMarvel())
+    marvelButton.addEventListener("click", e => getAll("marvel","88","128"))
     
     const dcButton = finder("#dc");
-    dcButton.addEventListener("click", e => getDC())
+    dcButton.addEventListener("click", e => getAll("dc","129","144"))
     
     const animeButton = finder("#anime");
-    animeButton.addEventListener("click", e => getAnime())
+    animeButton.addEventListener("click", e => getAll("anime","145","159"))
 
     const moviesButton = finder("#movie");
-    moviesButton.addEventListener("click", e => getMovies())
+    moviesButton.addEventListener("click", e => getAll("movies","1","37"))
 
     const vgButton = finder("#video-game");
-    vgButton.addEventListener("click", e => getVG())
+    vgButton.addEventListener("click", e => getAll("videogames","38","87"))
 
     const marvelButtonTwo = finder("#marvel-two");
-    marvelButtonTwo.addEventListener("click", e => getMarvelTwo())
+    marvelButtonTwo.addEventListener("click", e => getAllTwo("marvel","88","128"))
 
     const dcButtonTwo = finder("#dc-two");
-    dcButtonTwo.addEventListener("click", e => getDCTwo())
+    dcButtonTwo.addEventListener("click", e => getAllTwo("dc","129","144"))
 
     const animeButtonTwo = finder("#anime-two");
-    animeButtonTwo.addEventListener("click", e => getAnimeTwo())
+    animeButtonTwo.addEventListener("click", e => getAllTwo("anime","145","159"))
 
     const moviesButtonTwo = finder("#movie-two");
-    moviesButtonTwo.addEventListener("click", e => getMoviesTwo())
+    moviesButtonTwo.addEventListener("click", e => getAllTwo("movies","1","37"))
 
     const vgButtonTwo = finder("#video-game-two");
-    vgButtonTwo.addEventListener("click", e => getVGTwo())
+    vgButtonTwo.addEventListener("click", e => getAllTwo("videogames","38","87"))
 
+    const voteButtonOne = finder("#vote-button-one")
+    voteButtonOne.addEventListener("click", e => showVotes())
+
+    const voteButtonTwo = finder("#vote-button-two")
+    voteButtonTwo.addEventListener("click", e => showVotes())
+    
     const randomButton = finder("#random-button")
-    randomButton.addEventListener("click", e=> getRandom() )
+    randomButton.addEventListener("click", e=> getRandom())
 }
+
 btnEvents();
 
-const getMarvel = () => {
-     getAll("marvel","88","128")
+const showVotes = () => {
+    const votesOne = finder("#char-one-votes")
+    votesOne.style.display = "block"
+    const votesTwo = finder("#char-two-votes")
+    votesTwo.style.display = "block"
 }
 
-const getDC = () => {
-    getAll("dc","129","144")
+const getRandom = () => {
+    randomFirst();
+    randomSecond();
 }
 
-const getAnime = () => {
-    getAll("anime","145","159")
+const optionGrabber = () => {
+    let options = ["marvel", "dc", "videogames", "movies", "anime"]
+    return options[Math.floor(Math.random() * options.length)];
 }
 
-const getMovies = () => {
-    getAll("movies","1","37")
+function randomFirst () {
+    const result = optionGrabber();
+    let values = [];
+    if (result === "marvel") {
+        values.push("marvel", "88", "128");
+    } else if (result === "dc") {
+        values.push("dc", "129", "144");
+    } else if (result === "videogames") {
+        values.push("videogames", "38", "87");
+    } else if (result === "movies") {
+        values.push("movies", "1", "37");
+    } else if (result === "anime") {
+        values.push("anime", "145", "159");
+    }
+    const directory = values[0];
+    const min = values[1];
+    const max = values[2];
+    getAll(directory, min, max);
 }
-
-const getVG = () => {
-    getAll("videogames","38","87")
+function randomSecond () {
+    const result = optionGrabber();
+    let values = [];
+    if (result === "marvel") {
+        values.push("marvel", "88", "128");
+    } else if (result === "dc") {
+        values.push("dc", "129", "144");
+    } else if (result === "videogames") {
+        values.push("videogames", "38", "87");
+    } else if (result === "movies") {
+        values.push("movies", "1", "37");
+    } else if (result === "anime") {
+        values.push("anime", "145", "159");
+    }
+    const directory = values[0];
+    const min = values[1];
+    const max = values[2];
+    getAllTwo(directory, min, max);
 }
-
-const getMarvelTwo = () => {
-    getAllTwo("marvel","88","128")
-}
-
-const getDCTwo = () => {
-   getAllTwo("dc","129","144")
-}
-
-const getAnimeTwo = () => {
-   getAllTwo("anime","145","159")
-}
-
-const getMoviesTwo = () => {
-   getAllTwo("movies","1","37")
-}
-
-const getVGTwo = () => {
-   getAllTwo("videogames","38","87")
-}
-
-//  const getRandom = () => {
-    
-//     randomFirst();
-//     randomSecond();
-     
-
-//    // getAll(`${optionGrabber()}`, "1", "159");
-//    //getAllTwo(`${optionGrabber()}`, "1", "159");
-//  }
-
-//  const optionGrabber = () => {
-//    let options = ["marvel", "dc", "videogames", "movies", "anime"]
-//    return options[Math.floor(Math.random() * options.length)];
-//  }
-
-// function randomFirst () {
-//     const result = optionGrabber();
-//     let values = [];
-//     if (result.toString() === "marvel") {
-//         values.push("marvel", "88", "128");
-//     } else if (result.toString() === "dc") {
-//         values.push("dc", "129", "144");
-//     } else if (result.toString() === "videogames") {
-//         values.push("videogames", "38", "87");
-//     } else if (result.toString() === "movies") {
-//         values.push("movies", "1", "37");
-//     } else if (result.toString() === "anime") {
-//         values.push("anime", "145", "159");
-//     }
-//     getAll(`${values[0]}, ${parseInt.values[1]}, ${parseInt.values[2]}`);
-// }
-// function randomSecond () {
-//     const result = optionGrabber();
-//     let values = [];
-//     if (result.toString() === "marvel") {
-//         values.push("marvel", "88", "128");
-//     } else if (result.toString() === "dc") {
-//         values.push("dc", "129", "144");
-//     } else if (result.toString() === "videogames") {
-//         values.push("videogames", "38", "87");
-//     } else if (result.toString() === "movies") {
-//         values.push("movies", "1", "37");
-//     } else if (result.toString() === "anime") {
-//         values.push("anime", "145", "159");
-//     }
-//     getAllTwo(`${values[0]},${parseInt.values[1]}, parse${values[2]}`);
-//  }
 
 

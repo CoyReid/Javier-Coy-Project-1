@@ -225,6 +225,13 @@
       "votes": 22
     },
     {
+      "id": 33,
+      "name": "Luke Skywalker",
+      "img": "https://www.popoptiq.com/wp-content/uploads/2015/12/1437680-luke_skywalker1.jpg",
+      "origin": "Star Wars",
+      "votes": 22
+    },
+    {
       "id": 34,
       "name": "Mr. Incredible",
       "img": "https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/01/mr_incredible-HD-1421060623.jpg?quality=.8&height=450&width=800",
