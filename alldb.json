@@ -658,245 +658,244 @@
     {
       "id": 94,
       "name": "Loki",
-      "img": "https://i.pinimg.com/originals/13/d6/22/13d6225f9db631fc50b33c03ad5891f5.png",
-      "origin": "Marvel",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75b06a7d-049e-4275-95f4-7e0814ef67de/da8l4dk-270cac67-b3e2-4390-bc09-af26a7e84f1d.png/v1/fill/w_800,h_931,strp/loki_png_by_blutmondlicht_da8l4dk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMxIiwicGF0aCI6IlwvZlwvNzViMDZhN2QtMDQ5ZS00Mjc1LTk1ZjQtN2UwODE0ZWY2N2RlXC9kYThsNGRrLTI3MGNhYzY3LWIzZTItNDM5MC1iYzA5LWFmMjZhN2U4NGYxZC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.AAFKt2FnEKiPbD-mDCtSUrbJRfeVKfPdxN8NN97ScdU",
       "votes": 23
     },
     {
       "id": 95,
       "name": "Ant-Man",
-      "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/Ant-Man_and_the_Wasp_-_Promo_Ant-Man.png/revision/latest?cb=20180716235632&path-prefix=es",
+      "img": "http://assets.stickpng.com/images/580b57fbd9996e24bc43c014.png",
       "origin": "Marvel",
       "votes": 29
     },
     {
       "id": 96,
-      "name": "Black Panther",
-      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-172761-blackpanther.jpg",
+      "name": "The Wasp",
+      "img": "https://i.pinimg.com/originals/bd/65/2c/bd652ca64ad21d4d395688c7bba386cd.png",
       "origin": "Marvel",
       "votes": 19
     },
     {
       "id": 97,
       "name": "Deadpool",
-      "img": "https://i2.wp.com/hipertextual.com/wp-content/uploads/2018/05/deadpool-2-love-2389472389443.jpg?fit=1200%2C900&ssl=1",
+      "img": "images/deadpool.png",
       "origin": "Marvel",
       "votes": 20
     },
     {
       "id": 98,
       "name": "The Punisher",
-      "img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2019/02/hipertextual-es-oficial-netflix-cancela-the-punisher-jessica-jones-2019959490.jpg?fit=1500%2C926&ssl=1",
+      "img": "images/punisher.png",
       "origin": "Marvel",
       "votes": 15
     },
     {
       "id": 99,
       "name": "Daredevil",
-      "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/daredevil-serie-tv-cartel.jpg?itok=FltfTn_C",
+      "img": "https://lh3.googleusercontent.com/proxy/txkzyIGZYF6wNPy9oq2IAM8pwMkOfJZKLQvn2uDQOZ1ZDobO8aKVb5hA6Oqi2rt9mrYjfzb5Lj51j2Y6y5zs_6tEnVVsUtAZLn-t3onHY5uWkFrCbTH5Hq7tgZwn0DPOcQW0bJKxPI4hd_CPBw",
       "origin": "Marvel",
       "votes": 16
     },
     {
       "id": 100,
       "name": "Spider-Man",
-      "img": "https://cronicaglobal.elespanol.com/uploads/s1/61/11/50/7/main-700b9bff30.jpeg",
+      "img": "https://freepngimg.com/download/spiderman/74678-infinity-avenger-spider-man-youtube-hulk-black-thanos.png",
       "origin": "Marvel",
       "votes": 17
     },
     {
       "id": 101,
       "name": "Cyclops",
-      "img": "https://pm1.narvii.com/6524/f2a1a48fa2076f4557ba33dd67c35684843c83e8_hq.jpg",
+      "img": "https://www.pngkey.com/png/full/218-2188180_cyclops-x-men-cyclops-png.png",
       "origin": "Marvel",
       "votes": 14
     },
     {
       "id": 102,
       "name": "Beast",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/x-men-dark-phoenix-beast-professor-x-magneto-1560162087.jpg?crop=0.364xw:0.709xh;0.439xw,0&resize=480:*",
+      "img": "images/beast.png",
       "origin": "Marvel",
       "votes": 13
     },
     {
       "id": 103,
       "name": "Magneto",
-      "img": "https://i.pinimg.com/736x/03/e2/64/03e2640513ebebffd3900d1f54fd7968.jpg",
+      "img": "images/magneto.png",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 104,
       "name": "Quicksilver",
-      "img": "https://depor.com/resizer/ZQeiSnwkdcFBAuZtRxNJ-0ivXIw=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZXRBOBGFHVBVJJQ7MVKZPSDWB4.jpg",
+      "img": "images/quicksilver.png",
       "origin": "Marvel",
       "votes": 14
     },
     {
       "id": 105,
       "name": "Scarlet Witch",
-      "img": "https://static.wikia.nocookie.net/disney/images/3/36/Profile_-_Scarlet_Witch.png/revision/latest?cb=20210308235948",
+      "img": "https://static.wikia.nocookie.net/disneyypixar/images/e/ef/Scarlet_Witch.png/revision/latest?cb=20190426220016&path-prefix=es",
       "origin": "Marvel",
       "votes": 18
     },
     {
       "id": 106,
       "name": "Vision",
-      "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2f/Vision_AIW_Profile.jpg/revision/latest?cb=20180518212532",
+      "img": "https://i.dlpng.com/static/png/6929085_preview.png",
       "origin": "Marvel",
       "votes": 16
     },
     {
       "id": 107,
       "name": "Dr. Strange",
-      "img": "https://cocalecas.net/wp-content/uploads/2016/11/drstrange.jpg",
+      "img": "https://static.wikia.nocookie.net/disneyypixar/images/d/de/Dr_Strange.png/revision/latest?cb=20190426034812&path-prefix=es",
       "origin": "Marvel",
       "votes": 11
     },
     {
       "id": 108,
       "name": "Captain Marvel",
-      "img": "https://cdn.vox-cdn.com/thumbor/YBb8-4XPJRmmpdUJYqPP_hp0V04=/0x145:1688x1809/1400x933/filters:focal(726x441:996x711):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/61461869/captain_marvel_poster_1688.1537366019.jpg",
+      "img": "images/captain-marvel.png",
       "origin": "Marvel",
       "votes": 13
     },
     {
       "id": 109,
       "name": "Jean Grey",
-      "img": "https://images.hdqwalls.com/wallpapers/jean-grey-x-men-dark-phoenix-4k-4b.jpg",
+      "img": "https://static.wikia.nocookie.net/universo-cinematografico-de-xmen/images/6/6b/Jean1.png/revision/latest?cb=20160906170305&path-prefix=es",
       "origin": "Marvel",
       "votes": 15
     },
     {
       "id": 110,
       "name": "Baby Groot",
-      "img": "https://i0.wp.com/www.tor.com/wp-content/uploads/2018/02/baby-groot.jpg?fit=800%2C+9999&crop=0%2C0%2C100%2C375px&ssl=1",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/295fb76c-7179-4c70-a508-a1cce61a876f/d9zffy6-5ecb1010-162f-4f4b-b1cc-b44f97320fd2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5NWZiNzZjLTcxNzktNGM3MC1hNTA4LWExY2NlNjFhODc2ZlwvZDl6ZmZ5Ni01ZWNiMTAxMC0xNjJmLTRmNGItYjFjYy1iNDRmOTczMjBmZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0RulG9BQJN7xId3GB3MXXllfn24lHDJ7kmIQws3eBhU",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 111,
       "name": "Star Lord",
-      "img": "https://akns-images.eonline.com/eol_images/Entire_Site/20201114/rs_1200x1200-201214124949-1200-Chris_Pratt-Guardians_Of_The_Galaxy_-_2014.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dc5rnv9-dd76b0dd-7bf9-4a0c-83bf-19a627056193.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGM1cm52OS1kZDc2YjBkZC03YmY5LTRhMGMtODNiZi0xOWE2MjcwNTYxOTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5voJ1nP35PSm4_g45i5lR-z16KiR_qND8D7W1XQAVkk",
       "origin": "Marvel",
       "votes": 17
     },
     {
       "id": 112,
       "name": "Venom",
-      "img": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/IQBLLU2NYNCBZHEAYSAQFEZM2M.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1e0efb2-4698-454a-9090-d96fcf6aa47b/debpfvo-eb5294ed-0b62-49c7-88cb-668f1005b2ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxZTBlZmIyLTQ2OTgtNDU0YS05MDkwLWQ5NmZjZjZhYTQ3YlwvZGVicGZ2by1lYjUyOTRlZC0wYjYyLTQ5YzctODhjYi02NjhmMTAwNWIyYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e8_9YsnflWU8taJYKBshgZqH9OV8If0D6U1dHl6BwQI",
       "origin": "Marvel",
       "votes": 18
     },
     {
       "id": 113,
       "name": "Drax the destroyer",
-      "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f2/Drax_AIW_Profile.jpg/revision/latest/top-crop/width/360/height/360?cb=20180518212237",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c782e4c-fae0-4a87-b7b1-a752598d9df9/daq4i1z-7fc87ef3-d6af-45d7-a697-b14914a62bc6.png/v1/fill/w_1024,h_1249,strp/drax_the_destroyer_png_by_ambriegnsasylum16_daq4i1z-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0OSIsInBhdGgiOiJcL2ZcLzBjNzgyZTRjLWZhZTAtNGE4Ny1iN2IxLWE3NTI1OThkOWRmOVwvZGFxNGkxei03ZmM4N2VmMy1kNmFmLTQ1ZDctYTY5Ny1iMTQ5MTRhNjJiYzYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.5dKa20Fm9Ta63aaFZxLYIElPIdvi8zWt8CxdC-djmYo",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 114,
       "name": "Black Widow",
-      "img": "https://pbs.twimg.com/media/E5NsBXvWUAo9Ezb.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a1b02a9-0ca7-4130-810e-c6db42004a20/d8knk6n-32e1c4ac-4f3e-4969-ae41-e1111ff62fad.png/v1/fill/w_600,h_1269,strp/black_widow_png_render_from_aou_by_joaohbd_d8knk6n-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2OSIsInBhdGgiOiJcL2ZcLzNhMWIwMmE5LTBjYTctNDEzMC04MTBlLWM2ZGI0MjAwNGEyMFwvZDhrbms2bi0zMmUxYzRhYy00ZjNlLTQ5NjktYWU0MS1lMTExMWZmNjJmYWQucG5nIiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YoIyebknbI2DnJBFK3cDH6BL4j8Z3el6j2LX6SUlvgI",
       "origin": "Marvel",
       "votes": 15
     },
     {
       "id": 115,
       "name": "Hawkeye",
-      "img": "https://static.wikia.nocookie.net/heroes-and-villain/images/b/b4/Hawkeye_Profile.png/revision/latest?cb=20190615214749",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a1b02a9-0ca7-4130-810e-c6db42004a20/d8kngad-b916ee06-6770-43ad-804c-523da3af4009.png/v1/fill/w_400,h_865,strp/hawkeye_png___render_by_joaohbd_d8kngad-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY1IiwicGF0aCI6IlwvZlwvM2ExYjAyYTktMGNhNy00MTMwLTgxMGUtYzZkYjQyMDA0YTIwXC9kOGtuZ2FkLWI5MTZlZTA2LTY3NzAtNDNhZC04MDRjLTUyM2RhM2FmNDAwOS5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.rLKBwpLqvLzC_QwJU-C7HlheXCYy08mIeoUgz9ECdIk",
       "origin": "Marvel",
       "votes": 16
     },
     {
       "id": 116,
       "name": "Thanos",
-      "img": "https://media.gq.com.mx/photos/5dec0db85b7e8300097bca15/16:9/w_1920,c_limit/thanos-bebe-marvel.jpg",
+      "img": "images/thanos.png",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 117,
       "name": "Ultron",
-      "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Ultron.png/revision/latest/top-crop/width/360/height/450?cb=20200818070718&path-prefix=es",
+      "img": "images/ultron.png",
       "origin": "Marvel",
       "votes": 13
     },
     {
       "id": 118,
       "name": "Nick Fury",
-      "img": "https://www.tonica.la/__export/1601057620695/sites/debate/img/2020/09/25/nick-fury-tendrx-su-propia-serie-en-disney-x_1.jpg_1037907269.jpg",
+      "img": "images/nick-fury.png",
       "origin": "Marvel",
       "votes": 15
     },
     {
       "id": 119,
       "name": "Mystique",
-      "img": "https://i.insider.com/5682b29bdd089582548b471d?width=600&format=jpeg&auto=webp",
+      "img": "https://www.pngonly.com/wp-content/uploads/2017/06/Mystique-Medium-Size-PNG-210x381.png",
       "origin": "Marvel",
       "votes": 16
     },
     {
       "id": 120,
       "name": "Storm",
-      "img": "https://i.pinimg.com/736x/fb/08/f9/fb08f9f396b1ed49d4e9b8d43850fd08.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/d9yvfks-e377939b-2f03-463f-bacd-fc349db28407.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZDl5dmZrcy1lMzc3OTM5Yi0yZjAzLTQ2M2YtYmFjZC1mYzM0OWRiMjg0MDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iuAECi8dTSylAwg3fHlLpbdvKdj3iTfjJKo9rrfHbMo",
       "origin": "Marvel",
       "votes": 17
     },
     {
       "id": 121,
       "name": "Nightcrawler",
-      "img": "https://cdn.vox-cdn.com/thumbor/EemRduQ7-9R2c0wA6v8WEcfUVNs=/0x13:593x458/1400x1400/filters:focal(0x13:593x458):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/46220156/Screen_Shot_2015-04-27_at_10.35.38_AM.0.0.png",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/dda087t-e84bfded-3967-4d06-8f32-7295e8db0fbc.png/v1/fill/w_288,h_632,strp/nightcrawler___transparent__by_camo_flauge_dda087t-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMyIiwicGF0aCI6IlwvZlwvMWRiYzE5MzUtNjU0Mi00ZWUzLTgyMmYtMTM1Y2ZmNGJhNjJjXC9kZGEwODd0LWU4NGJmZGVkLTM5NjctNGQwNi04ZjMyLTcyOTVlOGRiMGZiYy5wbmciLCJ3aWR0aCI6Ijw9Mjg4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Xsk7UjxKh8cnkTiQJgX0uNORUMjJWdWpuoqmh0oiSGA",
       "origin": "Marvel",
       "votes": 15
     },
     {
       "id": 122,
       "name": "Sabertooth",
-      "img": "https://static.wikia.nocookie.net/antagonists/images/e/e5/Sabretooh_XMen_Origins.png/revision/latest?cb=20170808093152",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/295fb76c-7179-4c70-a508-a1cce61a876f/dblj5kq-8ecebc33-cfc0-46ec-8fea-2b40ea14b621.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5NWZiNzZjLTcxNzktNGM3MC1hNTA4LWExY2NlNjFhODc2ZlwvZGJsajVrcS04ZWNlYmMzMy1jZmMwLTQ2ZWMtOGZlYS0yYjQwZWExNGI2MjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KAKGIpuB0csnvBMTdQ3ilm6xeHqTJ8xpSpIVXtyh5xA",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 123,
-      "name": "Gambit",
-      "img": "https://static.wikia.nocookie.net/4509e1db-d2ba-45b4-9040-0042664e9fb1",
+      "name": "Pepper Potts",
+      "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7a/Iron_Man_Armor_-_Mark_XLIX.png/revision/latest?cb=20190525040505",
       "origin": "Marvel",
       "votes": 11
     },
     {
       "id": 124,
       "name": "Gamora",
-      "img": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/41/1476281167-gamora-guardians-of-the-galaxy.jpg?crop=1xw:0.9770992366412213xh;center,top&resize=1200:*",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/db89viw-9fae0267-084c-4be5-b1a0-48d23077924c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGI4OXZpdy05ZmFlMDI2Ny0wODRjLTRiZTUtYjFhMC00OGQyMzA3NzkyNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElVfI9x8puYVZ9Q-7IZZcBOuH_pFb91h0BIAEi6-qck",
       "origin": "Marvel",
       "votes": 12
     },
     {
       "id": 125,
       "name": "Rocket",
-      "img": "https://images.immediate.co.uk/production/volatile/sites/3/2019/05/EBC1840_v228.1047-eb60675.jpg?quality=90&resize=768,574",
+      "img": "images/rocket.png",
       "origin": "Marvel",
       "votes": 18
     },
     {
       "id": 126,
       "name": "Nebula",
-      "img": "https://i.redd.it/aihc6s58ivt21.jpg",
+      "img": "images/nebula.png",
       "origin": "Marvel",
       "votes": 6
     },
     {
       "id": 127,
       "name": "War Machine",
-      "img": "https://static.wikia.nocookie.net/ironman/images/6/68/1118full-james-rhodes--slash--war-machine-Endgame.jpg/revision/latest?cb=20191206172621",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dc8dy2p-f0e6bcca-1563-477a-a153-fdff55e40ffd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGM4ZHkycC1mMGU2YmNjYS0xNTYzLTQ3N2EtYTE1My1mZGZmNTVlNDBmZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iitClsV6NwA-FuMRpZwDVaJjcyfpAtrquwHzTW4NqI4",
       "origin": "Marvel",
       "votes": 8
     },
     {
       "id": 128,
       "name": "Falcon",
-      "img": "https://images.indianexpress.com/2021/03/falcon-anthony-mackie-1200.jpg",
+      "img": "https://i.pinimg.com/originals/d7/0e/17/d70e173cbf0854d67121f4de0ebeb042.png",
       "origin": "Marvel",
       "votes": 9
     }
@@ -905,112 +904,112 @@
     {
       "id": 129,
       "name": "Superman",
-      "img": "https://cdn.theatlantic.com/thumbor/cTP7DsiUyI81zFg8c-FDnIoCBhA=/540x0:2340x1800/540x540/media/img/mt/2016/01/superman/original.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f41ce635-05f6-4145-a06a-49bdefa26e42/ddwhsoz-0f555c5a-1fa0-4365-b52e-05ab91b47bdb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0MWNlNjM1LTA1ZjYtNDE0NS1hMDZhLTQ5YmRlZmEyNmU0MlwvZGR3aHNvei0wZjU1NWM1YS0xZmEwLTQzNjUtYjUyZS0wNWFiOTFiNDdiZGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LG6IndA0SqH9ADwyTpg9nKw2NjImde1EeRDeECMJDs8",
       "origin": "DC",
       "votes": 7
     },
     {
       "id": 130,
       "name": "Batman",
-      "img": "https://www.latercera.com/resizer/5eAc6Bu2bh-CdmO6vHbprJluUog=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/NEZVVZGNYNAQBAY7I57GYHFYNY.jpg",
+      "img": "http://assets.stickpng.com/images/580b57fbd9996e24bc43c022.png",
       "origin": "DC",
       "votes": 10
     },
     {
       "id": 131,
       "name": "Aquaman",
-      "img": "https://es.web.img3.acsta.net/pictures/19/02/01/21/02/1004291.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a145268-41e7-4aa6-93b1-564a57fd6f05/dcswcy2-6ef28d7b-3f27-4900-8c26-b4951bb83e9c.png/v1/fill/w_1024,h_2167,strp/aquaman_2018_by_hz_designs_dcswcy2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NyIsInBhdGgiOiJcL2ZcLzlhMTQ1MjY4LTQxZTctNGFhNi05M2IxLTU2NGE1N2ZkNmYwNVwvZGNzd2N5Mi02ZWYyOGQ3Yi0zZjI3LTQ5MDAtOGMyNi1iNDk1MWJiODNlOWMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Rwa0nzEyDfX6irckGqw8yea6XxUP_tfA6BiqN0-OqJ0",
       "origin": "DC",
       "votes": 7
     },
     {
       "id": 132,
       "name": "Flash",
-      "img": "https://spoiler.bolavip.com/__export/1571172952469/sites/bolavip/img/2019/10/15/fla_crop1571172747568.jpg_1902800913.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dckenhf-45f442c8-01a3-4376-b46b-c649c7c9f870.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGNrZW5oZi00NWY0NDJjOC0wMWEzLTQzNzYtYjQ2Yi1jNjQ5YzdjOWY4NzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o86WG_WDAWvuS-r_t5jrH-0m0oqImM7x2xqaUgPwk9o",
       "origin": "DC",
       "votes": 20
     },
     {
       "id": 133,
       "name": "Green Lantern",
-      "img": "https://imgix.bustle.com/uploads/image/2017/11/17/0e7ae78b-8ff4-482d-8f69-16a8e2381807-rehost2f20162f92f132f6bcc6365-941b-419d-812d-79063c4d7fda.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "img": "https://i.pinimg.com/originals/e2/d8/ea/e2d8ea4d09be1658abc79d1079162d94.png",
       "origin": "DC",
       "votes": 9
     },
     {
       "id": 134,
       "name": "Cyborg",
-      "img": "https://static.wikia.nocookie.net/dccu/images/5/52/Cyborg-Promo-JL.jpg/revision/latest?cb=20210425231915",
+      "img": "https://pngimg.com/uploads/cyborg/cyborg_PNG43.png",
       "origin": "DC",
       "votes": 9
     },
     {
       "id": 135,
       "name": "Robin",
-      "img": "https://www.screengeek.net/wp-content/uploads/2019/06/batman-movie-robin.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5b85352-7ce2-405b-8c0a-55079eb8715f/dclkiwb-fff2cbf3-0be2-48bd-8fe1-97ece391b2b9.png/v1/fill/w_1024,h_1513,strp/titans_robin_dick_grayson_png_by_killmongermarv_dclkiwb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUxMyIsInBhdGgiOiJcL2ZcL2Q1Yjg1MzUyLTdjZTItNDA1Yi04YzBhLTU1MDc5ZWI4NzE1ZlwvZGNsa2l3Yi1mZmYyY2JmMy0wYmUyLTQ4YmQtOGZlMS05N2VjZTM5MWIyYjkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IWdQzPo5OeHv3HxKu5DVJX3WQ8289lfKflV3bkCM90U",
       "origin": "DC",
       "votes": 12
     },
     {
       "id": 136,
       "name": "Wonder Woman",
-      "img": "https://cdn.vox-cdn.com/thumbor/Ia_Cyth1PDyN8nLltrMSFv85rwY=/0x0:1280x640/1200x800/filters:focal(467x58:671x262)/cdn.vox-cdn.com/uploads/chorus_image/image/55115281/wonderwoman2.0.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/db9t5ss-bf8ca964-92e1-455f-9501-e7904dc1e425.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0NmE5MDg2LThhNDAtNDNlMC1hYTEwLTJmYzdkNmQ3MzczMFwvZGI5dDVzcy1iZjhjYTk2NC05MmUxLTQ1NWYtOTUwMS1lNzkwNGRjMWU0MjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IELwFSWjr4_kXR4SR-CCaLbTOOtY4JCCZR6_kwyCM2A",
       "origin": "DC",
       "votes": 15
     },
     {
       "id": 137,
       "name": "Shazam",
-      "img": "https://i.pinimg.com/736x/07/c3/99/07c3992f6677690e645a16c17cd4d4a9.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f89ec3f-9ee8-48cd-89e4-c59bf7fcacb4/dch42no-d54804f4-b141-4ee2-b6ae-416db65b356c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmODllYzNmLTllZTgtNDhjZC04OWU0LWM1OWJmN2ZjYWNiNFwvZGNoNDJuby1kNTQ4MDRmNC1iMTQxLTRlZTItYjZhZS00MTZkYjY1YjM1NmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oITbOS9jdRMGClS-747ro_8AXH7hY22i7DBIo-Ml6_4",
       "origin": "DC",
       "votes": 17
     },
     {
       "id": 138,
       "name": "Green Arrow",
-      "img": "https://m.media-amazon.com/images/M/MV5BMTU4ODkzNTA4NF5BMl5BanBnXkFtZTgwMTYzNzMyNjE@._V1_UY1200_CR750,0,630,1200_AL_.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6b98f84d-e262-40f3-a667-68baee6ae94e/dbbkas6-6461235b-fb7b-432f-bb42-c0be6d8f81b8.png",
       "origin": "DC",
       "votes": 12
     },
     {
       "id": 139,
       "name": "Deathstroke",
-      "img": "https://www.tonica.la/__export/1588290771625/sites/debate/img/2020/04/30/gareth-evans-comparte-planes-pelicula-solitario-deathstroke_crop1588290771099.jpg_1902800913.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f359881d-6bb2-4391-aba6-779f7084edd4/dazxd1b-55662215-3e47-40de-9e4d-86c1ec5c0f6e.png/v1/fill/w_1024,h_1583,strp/deathstroke___transparent_by_asthonx1_dazxd1b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU4MyIsInBhdGgiOiJcL2ZcL2YzNTk4ODFkLTZiYjItNDM5MS1hYmE2LTc3OWY3MDg0ZWRkNFwvZGF6eGQxYi01NTY2MjIxNS0zZTQ3LTQwZGUtOWU0ZC04NmMxZWM1YzBmNmUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1DLyEZ_NTY8tRqJpZFU0LNRGLU-7PoGnxJ-ViYNoTpE",
       "origin": "DC",
       "votes": 1
     },
     {
       "id": 140,
       "name": "Ra's al ghul",
-      "img": "https://i.pinimg.com/originals/2b/fe/27/2bfe2789a1ba520e8c909f7b93f67fec.jpg",
+      "img": "images/Ras-al-Ghul.png",
       "origin": "DC",
       "votes": 11
     },
     {
       "id": 141,
       "name": "The Joker",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png",
+      "img": "images/joker.png",
       "origin": "DC",
       "votes": 12
     },
     {
       "id": 142,
       "name": "Bane",
-      "img": "https://i2.wp.com/wipy.tv/wp-content/uploads/2020/05/guillermo-del-toro-prepara-scary-stories-to-tell-in-the-dark-2-88.jpg?fit=1000%2C600&ssl=1",
+      "img": "images/bane.png",
       "origin": "DC",
       "votes": 15
     },
     {
       "id": 143,
-      "name": "Scarecrow",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwp0Yg8ghK9MPbJXfjdPG3hekC7gtjiaZP8w&usqp=CAU",
+      "name": "Harley Quinn",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89f9adda-0ce2-41ca-bd0a-629c69bba8e5/daozsj4-d10cce6d-bb43-4b99-b95a-fb97a0304363.png/v1/fill/w_1024,h_1968,strp/harley_quinn_png__2_by_anna_x_anarchy_daozsj4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk2OCIsInBhdGgiOiJcL2ZcLzg5ZjlhZGRhLTBjZTItNDFjYS1iZDBhLTYyOWM2OWJiYThlNVwvZGFvenNqNC1kMTBjY2U2ZC1iYjQzLTRiOTktYjk1YS1mYjk3YTAzMDQzNjMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.r2dMUPc6YuLWPawHsWCDZD73zWME7xMPUDdbFq7B8Og",
       "origin": "DC",
       "votes": 13
     },
     {
       "id": 144,
-      "name": "Lex Luthor",
-      "img": "https://pm1.narvii.com/6609/ce0f31955bb458aa7577b9127ebb3d11221c3b1d_hq.jpg",
+      "name": "Deadshot",
+      "img": "https://www.vippng.com/png/full/516-5167246_suicide-squad-deadshot.png",
       "origin": "DC",
       "votes": 5
     }
