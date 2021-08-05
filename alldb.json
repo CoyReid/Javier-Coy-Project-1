@@ -110,7 +110,7 @@
       "name": "T-800",
       "img": "https://pngimg.com/uploads/terminator/terminator_PNG31.png",
       "origin": "Terminator",
-      "votes": 12
+      "votes": 13
     },
     {
       "id": 17,
@@ -653,7 +653,7 @@
       "name": "Thor",
       "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/ddb1j6q-5fd8b462-5263-4408-b60e-d970890465ca.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhMTk2MTE3LTBiNjQtNDliNy1iMTNmLTc5ZjQzY2Y3N2U1M1wvZGRiMWo2cS01ZmQ4YjQ2Mi01MjYzLTQ0MDgtYjYwZS1kOTcwODkwNDY1Y2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1-JbSnCd8Ft-w4LAdKpm78b25Vg4KbdESf30tsh_zgQ",
       "origin": "Marvel",
-      "votes": 17
+      "votes": 18
     },
     {
       "id": 94,
@@ -813,7 +813,7 @@
       "name": "Thanos",
       "img": "images/thanos.png",
       "origin": "Marvel",
-      "votes": 12
+      "votes": 14
     },
     {
       "id": 117,
@@ -834,7 +834,7 @@
       "name": "Mystique",
       "img": "https://www.pngonly.com/wp-content/uploads/2017/06/Mystique-Medium-Size-PNG-210x381.png",
       "origin": "Marvel",
-      "votes": 16
+      "votes": 17
     },
     {
       "id": 120,

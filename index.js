@@ -6,6 +6,47 @@ document.addEventListener("DOMContentLoaded", function() {
     charForm.addEventListener("submit", e => addChar(e));
 })
 
+const btnEvents = () => {
+    const marvelButton = finder("#marvel");
+    marvelButton.addEventListener("click", e => getAll("marvel","88","128"));
+    
+    const dcButton = finder("#dc");
+    dcButton.addEventListener("click", e => getAll("dc","129","144"));
+    
+    const animeButton = finder("#anime");
+    animeButton.addEventListener("click", e => getAll("anime","145","159"));
+
+    const moviesButton = finder("#movie");
+    moviesButton.addEventListener("click", e => getAll("movies","1","37"));
+
+    const vgButton = finder("#video-game");
+    vgButton.addEventListener("click", e => getAll("videogames","38","87"));
+
+    const marvelButtonTwo = finder("#marvel-two");
+    marvelButtonTwo.addEventListener("click", e => getAllTwo("marvel","88","128"));
+
+    const dcButtonTwo = finder("#dc-two");
+    dcButtonTwo.addEventListener("click", e => getAllTwo("dc","129","144"));
+
+    const animeButtonTwo = finder("#anime-two");
+    animeButtonTwo.addEventListener("click", e => getAllTwo("anime","145","159"));
+
+    const moviesButtonTwo = finder("#movie-two");
+    moviesButtonTwo.addEventListener("click", e => getAllTwo("movies","1","37"));
+
+    const vgButtonTwo = finder("#video-game-two");
+    vgButtonTwo.addEventListener("click", e => getAllTwo("videogames","38","87"));
+
+    const voteButtonOne = finder("#vote-button-one");
+    voteButtonOne.addEventListener("click", e => showVotes());
+
+    const voteButtonTwo = finder("#vote-button-two");
+    voteButtonTwo.addEventListener("click", e => showVotes());
+    
+    const randomButton = finder("#random-button");
+    randomButton.addEventListener("click", e=> getRandom());
+}
+
 const getAll = (directory, min, max) => {
     fetch(`${allUrl}${directory}/${randomId(min, max)}`)
     .then(resp => resp.json())
@@ -20,23 +61,11 @@ const getAllTwo = (directory, min, max) => {
     hideVotes();
 }
 
-const test = (direct, id) => {
-    fetch(`http://localhost:3000/${direct}/${id}`)
-    .then(res=> res.json())
-    .then(char=> renderFirstChar(char))
-}
-
 const hideVotes = () => {
     const votesOne = finder("#char-one-votes")
     votesOne.style.display = "none"
     const votesTwo = finder("#char-two-votes")
     votesTwo.style.display = "none"
-}
-
-const randomId = (min, max) => {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min) + min);
 }
 
 const renderFirstChar = (char) => {
@@ -93,49 +122,12 @@ const renderSecondChar = (char) => {
     }
 }
 
-const finder = (type) => {
-    return document.querySelector(type)
-}
-
-const btnEvents = () => {
-    const marvelButton = finder("#marvel");
-    marvelButton.addEventListener("click", e => getAll("marvel","88","128"));
-    
-    const dcButton = finder("#dc");
-    dcButton.addEventListener("click", e => getAll("dc","129","144"));
-    
-    const animeButton = finder("#anime");
-    animeButton.addEventListener("click", e => getAll("anime","145","159"));
-
-    const moviesButton = finder("#movie");
-    moviesButton.addEventListener("click", e => getAll("movies","1","37"));
-
-    const vgButton = finder("#video-game");
-    vgButton.addEventListener("click", e => getAll("videogames","38","87"));
-
-    const marvelButtonTwo = finder("#marvel-two");
-    marvelButtonTwo.addEventListener("click", e => getAllTwo("marvel","88","128"));
-
-    const dcButtonTwo = finder("#dc-two");
-    dcButtonTwo.addEventListener("click", e => getAllTwo("dc","129","144"));
-
-    const animeButtonTwo = finder("#anime-two");
-    animeButtonTwo.addEventListener("click", e => getAllTwo("anime","145","159"));
-
-    const moviesButtonTwo = finder("#movie-two");
-    moviesButtonTwo.addEventListener("click", e => getAllTwo("movies","1","37"));
-
-    const vgButtonTwo = finder("#video-game-two");
-    vgButtonTwo.addEventListener("click", e => getAllTwo("videogames","38","87"));
-
-    const voteButtonOne = finder("#vote-button-one");
-    voteButtonOne.addEventListener("click", e => showVotes());
-
-    const voteButtonTwo = finder("#vote-button-two");
-    voteButtonTwo.addEventListener("click", e => showVotes());
-    
-    const randomButton = finder("#random-button");
-    randomButton.addEventListener("click", e=> getRandom());
+const showVotes = () => {
+    const votesOne = finder("#char-one-votes")
+    votesOne.style.display = "block"
+    const votesTwo = finder("#char-two-votes")
+    votesTwo.style.display = "block"
+    updateVotes();
 }
 
 const updateVotes = () => {
@@ -165,25 +157,12 @@ const winnerCheck = () => {
     parseInt(charOneVotes[1]) > parseInt(charTwoVotes[1]) ? alert("Red Side Wins!!!") : alert("Blue Side Wins!!!");
 }
 
-const showVotes = () => {
-    const votesOne = finder("#char-one-votes")
-    votesOne.style.display = "block"
-    const votesTwo = finder("#char-two-votes")
-    votesTwo.style.display = "block"
-    updateVotes();
-}
-
 const getRandom = () => {
     randomFirst();
     randomSecond();
 }
 
-const optionGrabber = () => {
-    let options = ["marvel", "dc", "videogames", "movies", "anime"]
-    return options[Math.floor(Math.random() * options.length)];
-}
-
-function randomFirst () {
+const randomFirst = () => {
     const result = optionGrabber();
     let values = [];
     if (result === "marvel") {
@@ -202,7 +181,8 @@ function randomFirst () {
     const max = values[2];
     getAll(directory, min, max);
 }
-function randomSecond () {
+
+const randomSecond = () => {
     const result = optionGrabber();
     let values = [];
     if (result === "marvel") {
@@ -222,7 +202,12 @@ function randomSecond () {
     getAllTwo(directory, min, max);
 }
 
-function addChar(e) {
+const optionGrabber = () => {
+    let options = ["marvel", "dc", "videogames", "movies", "anime"]
+    return options[Math.floor(Math.random() * options.length)];
+}
+
+const addChar = (e) => {
     e.preventDefault();
     const cForm = e.target;
     const charName = cForm.querySelector("#name-input").value;
@@ -236,7 +221,6 @@ function addChar(e) {
             origin: charOrigin,
             votes: 0,
         };
-        console.log(char)
         fetch(`${allUrl}extra`, {
             method: "POST",
             headers: {"Content-Type": "application/json"},
@@ -246,4 +230,22 @@ function addChar(e) {
         alert("Please fill out the form fully!");
     }
     charForm.reset();
+}
+
+const randomId = (min, max) => {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min) + min);
+}
+
+const finder = (type) => {
+    return document.querySelector(type)
+}
+
+
+//this function is for testing the rendering of characters to the screen
+const test = (direct, id) => {
+    fetch(`http://localhost:3000/${direct}/${id}`)
+    .then(res=> res.json())
+    .then(char=> renderFirstChar(char))
 }
