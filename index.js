@@ -247,5 +247,3 @@ function addChar(e) {
     }
     charForm.reset();
 }
-
-
