@@ -1,8 +1,10 @@
+const allUrl = "http://localhost:3000/";
+const charForm = document.getElementById("submission-form");
+
 document.addEventListener("DOMContentLoaded", function() {
     btnEvents();
+    charForm.addEventListener("submit", e => addChar(e));
 })
-
-const allUrl = "http://localhost:3000/"
 
 const getAll = (directory, min, max) => {
     fetch(`${allUrl}${directory}/${randomId(min, max)}`)
@@ -218,6 +220,32 @@ function randomSecond () {
     const min = values[1];
     const max = values[2];
     getAllTwo(directory, min, max);
+}
+
+function addChar(e) {
+    e.preventDefault();
+    const cForm = e.target;
+    const charName = cForm.querySelector("#name-input").value;
+    const charImg = cForm.querySelector("#image-input").value;
+    const charOrigin = cForm.querySelector("#origin-input").value;
+
+    if (charName !== "" && charImg !== "" && charOrigin != "") {
+        const char = {
+            name: charName,
+            img: charImg,
+            origin: charOrigin,
+            votes: 0,
+        };
+        console.log(char)
+        fetch(`${allUrl}extra`, {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(char)
+        })
+    } else {
+        alert("Please fill out the form fully!");
+    }
+    charForm.reset();
 }
 
 

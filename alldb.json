@@ -5,7 +5,7 @@
       "name": "John Wick",
       "img": "https://static.wikia.nocookie.net/murderseries/images/8/81/Wick.png/revision/latest?cb=20170601011322",
       "origin": "John Wick",
-      "votes": 2
+      "votes": 3
     },
     {
       "id": 2,
@@ -1119,6 +1119,15 @@
       "img": "https://static.wikia.nocookie.net/villains/images/0/07/Marshall_D_Teach.png/revision/latest?cb=20200207112535",
       "origin": "One Piece",
       "votes": 6
+    }
+  ],
+  "extra": [
+    {
+      "name": "Example",
+      "img": "Example",
+      "origin": "Example",
+      "votes": 0,
+      "id": 1
     }
   ]
 }
