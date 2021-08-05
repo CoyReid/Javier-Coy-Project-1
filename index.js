@@ -138,7 +138,7 @@ const btnEvents = () => {
     randomButton.addEventListener("click", e=> getRandom());
 }
 
-const updateVotes = (e) => {
+const updateVotes = () => {
     const votesEl = event.target.previousElementSibling;
     const votes = votesEl.innerText.split(" ");
     const newVotes = parseInt(votes[1]) + 1;
