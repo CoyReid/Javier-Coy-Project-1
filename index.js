@@ -152,6 +152,15 @@ const updateVotes = (e) => {
         headers: {"Content-Type": "application/json"},
         body: JSON.stringify({votes: newVotes})
     })
+    setTimeout(()=> winnerCheck()), 3000;
+}
+
+const winnerCheck = () => {
+    const charOne = finder("#char-one-votes");
+    const charTwo = finder("#char-two-votes");
+    const charOneVotes = charOne.innerText.split(" ");
+    const charTwoVotes = charTwo.innerText.split(" ");
+    parseInt(charOneVotes[1]) > parseInt(charTwoVotes[1]) ? alert("Red Side Wins!!!") : alert("Blue Side Wins!!!");
 }
 
 const showVotes = () => {

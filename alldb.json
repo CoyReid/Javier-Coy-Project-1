@@ -12,7 +12,7 @@
       "name": "King Leonidas",
       "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22533fb0-3db2-4d45-8675-4aaf09a2027b/dc30ut3-eb0d6972-f47d-4ef7-bdda-4258a69cea41.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNTMzZmIwLTNkYjItNGQ0NS04Njc1LTRhYWYwOWEyMDI3YlwvZGMzMHV0My1lYjBkNjk3Mi1mNDdkLTRlZjctYmRkYS00MjU4YTY5Y2VhNDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ukh4VvpN7yngoHnPY3KS5_Q5IWwgwatwu0a1DxZ1VLI",
       "origin": "300",
-      "votes": 5
+      "votes": 6
     },
     {
       "id": 3,
@@ -82,7 +82,7 @@
       "name": "Aragorn",
       "img": "images/aragornpic.png",
       "origin": "Lord of the Rings",
-      "votes": 21
+      "votes": 22
     },
     {
       "id": 13,
@@ -117,7 +117,7 @@
       "name": "Shrek",
       "img": "https://pngimg.com/uploads/shrek/shrek_PNG2.png",
       "origin": "Shrek",
-      "votes": 31
+      "votes": 32
     },
     {
       "id": 18,
@@ -692,16 +692,16 @@
     {
       "id": 99,
       "name": "Daredevil",
-      "img": "https://lh3.googleusercontent.com/proxy/txkzyIGZYF6wNPy9oq2IAM8pwMkOfJZKLQvn2uDQOZ1ZDobO8aKVb5hA6Oqi2rt9mrYjfzb5Lj51j2Y6y5zs_6tEnVVsUtAZLn-t3onHY5uWkFrCbTH5Hq7tgZwn0DPOcQW0bJKxPI4hd_CPBw",
+      "img": "images/daredevilpic.png",
       "origin": "Marvel",
-      "votes": 16
+      "votes": 18
     },
     {
       "id": 100,
       "name": "Spider-Man",
       "img": "https://freepngimg.com/download/spiderman/74678-infinity-avenger-spider-man-youtube-hulk-black-thanos.png",
       "origin": "Marvel",
-      "votes": 17
+      "votes": 18
     },
     {
       "id": 101,
@@ -715,7 +715,7 @@
       "name": "Beast",
       "img": "images/beast.png",
       "origin": "Marvel",
-      "votes": 13
+      "votes": 14
     },
     {
       "id": 103,
@@ -955,7 +955,7 @@
       "name": "Wonder Woman",
       "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/db9t5ss-bf8ca964-92e1-455f-9501-e7904dc1e425.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0NmE5MDg2LThhNDAtNDNlMC1hYTEwLTJmYzdkNmQ3MzczMFwvZGI5dDVzcy1iZjhjYTk2NC05MmUxLTQ1NWYtOTUwMS1lNzkwNGRjMWU0MjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IELwFSWjr4_kXR4SR-CCaLbTOOtY4JCCZR6_kwyCM2A",
       "origin": "DC",
-      "votes": 15
+      "votes": 16
     },
     {
       "id": 137,
@@ -976,7 +976,7 @@
       "name": "Deathstroke",
       "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f359881d-6bb2-4391-aba6-779f7084edd4/dazxd1b-55662215-3e47-40de-9e4d-86c1ec5c0f6e.png/v1/fill/w_1024,h_1583,strp/deathstroke___transparent_by_asthonx1_dazxd1b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU4MyIsInBhdGgiOiJcL2ZcL2YzNTk4ODFkLTZiYjItNDM5MS1hYmE2LTc3OWY3MDg0ZWRkNFwvZGF6eGQxYi01NTY2MjIxNS0zZTQ3LTQwZGUtOWU0ZC04NmMxZWM1YzBmNmUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1DLyEZ_NTY8tRqJpZFU0LNRGLU-7PoGnxJ-ViYNoTpE",
       "origin": "DC",
-      "votes": 1
+      "votes": 2
     },
     {
       "id": 140,
@@ -997,7 +997,7 @@
       "name": "Bane",
       "img": "images/bane.png",
       "origin": "DC",
-      "votes": 15
+      "votes": 16
     },
     {
       "id": 143,
@@ -1020,21 +1020,21 @@
       "name": "Saitama",
       "img": "https://static.wikia.nocookie.net/p__/images/2/27/Saitama.png/revision/latest/top-crop/width/360/height/360?cb=20200701024620&path-prefix=protagonist",
       "origin": "One Punch Man",
-      "votes": 36
+      "votes": 37
     },
     {
       "id": 146,
       "name": "Goku",
       "img": "http://assets.stickpng.com/images/584e837f6a5ae41a83ddee3b.png",
       "origin": "Dragon Ball Z",
-      "votes": 29
+      "votes": 30
     },
     {
       "id": 147,
       "name": "Avatar Aang",
       "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Avatar_Aang.png",
       "origin": "The Last Airbender",
-      "votes": 35
+      "votes": 36
     },
     {
       "id": 148,
