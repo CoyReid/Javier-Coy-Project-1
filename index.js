@@ -1,5 +1,6 @@
 const allUrl = "http://localhost:3000/";
 const charForm = document.getElementById("submission-form");
+var prevRandNum = -1;
 
 document.addEventListener("DOMContentLoaded", function() {
     btnEvents();
@@ -235,7 +236,12 @@ const addChar = (e) => {
 const randomId = (min, max) => {
     min = Math.ceil(min);
     max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min) + min);
+    let number = Math.floor(Math.random() * (max - min) + min);
+    while (number === prevRandNum) {
+        number = Math.floor(Math.random() * (max - min) + min);
+    };
+    prevRandNum = number;
+    return number;
 }
 
 const finder = (type) => {
